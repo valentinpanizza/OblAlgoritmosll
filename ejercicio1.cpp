@@ -11,11 +11,12 @@ struct NodoAVL {
     string nombre;
     int alturaId;
     int alturaP;
+    int cantNodos; // en el AVL de puntaje
     NodoAVL* izqId;
     NodoAVL* derId;
     NodoAVL* izqP;
     NodoAVL* derP;
-    NodoAVL(int _id, int _puntaje, string _nombre) : id(_id), puntaje(_puntaje), nombre(_nombre), alturaId(1), alturaP(1), izqId(NULL), derId(NULL), izqP(NULL), derP(NULL) {}
+    NodoAVL(int _id, int _puntaje, string _nombre) : id(_id), puntaje(_puntaje), nombre(_nombre), alturaId(1), alturaP(1), cantNodos(1), izqId(NULL), derId(NULL), izqP(NULL), derP(NULL) {}
 };
 
 class AVL {
@@ -50,7 +51,9 @@ class AVL {
             A->derId = T2;
             B->izqId = A;
             actualizarAltura(A);
+            actualizarHijos(A);
             actualizarAltura(B);
+            actualizarHijos(B);
             A = B;
         }else{
             NodoAVL* B = A->derP;
@@ -58,7 +61,9 @@ class AVL {
             A->derP = T2;
             B->izqP = A;
             actualizarAltura(A);
+            actualizarHijos(A);
             actualizarAltura(B);
+            actualizarHijos(B);
             A = B;
         }
     }
@@ -70,7 +75,9 @@ class AVL {
             B->izqId = T2;
             A->derId = B;
             actualizarAltura(B);
+            actualizarHijos(B);
             actualizarAltura(A);
+            actualizarHijos(A);
             B = A;
         }else{
             NodoAVL* A = B->izqP;
@@ -78,7 +85,9 @@ class AVL {
             B->izqP = T2;
             A->derP = B;
             actualizarAltura(B);
+            actualizarHijos(B);
             actualizarAltura(A);
+            actualizarHijos(A);
             B = A;
         }
     }
@@ -163,6 +172,7 @@ class AVL {
                 rotacionHaciaIzquierda(nodo, false);
             }
         }
+        actualizarHijos(nodo);
     }
 
     NodoAVL* buscarId(NodoAVL* nodo, int id){
@@ -173,12 +183,20 @@ class AVL {
     }
 
     int contPuntaje(NodoAVL* nodo, int p) {
-        if(!nodo) return 0;
-        if(nodo->puntaje > p) {
-            return 1 + contPuntaje(nodo->izqP, p) + contPuntaje(nodo->derP, p);
-        } else {
+        if (!nodo) return 0;
+        if (nodo->puntaje < p) {
             return contPuntaje(nodo->derP, p);
+        } else {
+            if(nodo->derP) return 1 + nodo->derP->cantNodos + contPuntaje(nodo->izqP, p);
+            return 1 + contPuntaje(nodo->izqP, p);
         }
+    }
+
+    void actualizarHijos(NodoAVL* nodo) {
+        if (!nodo) return;
+        int izq = nodo->izqP ? nodo->izqP->cantNodos : 0;
+        int der = nodo->derP ? nodo->derP->cantNodos : 0;
+        nodo->cantNodos = 1 + izq + der;
     }
 
     public:
@@ -190,7 +208,7 @@ class AVL {
     }
 
     void insertar(int id, int puntaje, string nombre){
-        if (buscarId(this->raizId, id) != NULL) return; // No agregar si ya existe
+        if (buscarId(this->raizId, id) != NULL) return;
         this->insertarDos(id, puntaje, nombre);
     }
 
@@ -200,7 +218,7 @@ class AVL {
 
     string impFind(int _id){
         NodoAVL* n = buscarId(this->raizId, _id);
-        return (n == NULL) ? "jugador no encontrado" : n->nombre + " " + std::to_string(n->puntaje);
+        return (n == NULL) ? "jugador_no_encontrado" : n->nombre + " " + std::to_string(n->puntaje);
     }
 
     string impRank(int p){
