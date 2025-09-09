@@ -86,7 +86,7 @@ class AVL {
     void insertarDos(int id, int puntaje, string nombre) {
         NodoAVL* nuevo = new NodoAVL(id, puntaje, nombre);
         this->cant = this->cant + 1;
-        if (this->mejor == NULL || puntaje > this->mejor->puntaje) {
+        if (this->mejor == NULL || puntaje > this->mejor->puntaje || (puntaje == this->mejor->puntaje && id < this->mejor->id)) {
             this->mejor = nuevo;
         }
         insertarRecId(this->raizId, nuevo);  // inserta en árbol de IDs
