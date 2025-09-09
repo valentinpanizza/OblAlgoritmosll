@@ -24,23 +24,7 @@ class AVL {
     NodoAVL* raizId;
     NodoAVL* raizP;
     int cant;
-    int mejorP;
-
-    void inOrderRecId(NodoAVL* nodo){
-        if(nodo){
-            inOrderRecId(nodo->izqId);
-            std::cout << nodo->id << endl;
-            inOrderRecId(nodo->derId);
-        }
-    }
-
-    void inOrderRecP(NodoAVL* nodo){
-        if(nodo){
-            inOrderRecP(nodo->izqP);
-            std::cout << nodo->puntaje << endl;
-            inOrderRecP(nodo->derP);
-        }
-    }
+    NodoAVL* mejor;
 
     int alturaSegura(NodoAVL* nodo, bool id){
         if(!nodo) return 0;
@@ -101,8 +85,10 @@ class AVL {
 
     void insertarDos(int id, int puntaje, string nombre) {
         NodoAVL* nuevo = new NodoAVL(id, puntaje, nombre);
-        this->cant++;
-        if(puntaje > this->mejorP) mejorP = puntaje;
+        this->cant = this->cant + 1;
+        if (this->mejor == NULL || puntaje > this->mejor->puntaje) {
+            this->mejor = nuevo;
+        }
         insertarRecId(this->raizId, nuevo);  // inserta en árbol de IDs
         insertarRecP(this->raizP, nuevo);    // inserta en árbol de Puntajes
     }
@@ -199,18 +185,13 @@ class AVL {
     AVL() {
         raizId = NULL;
         raizP = NULL;
+        cant = 0;
+        mejor = NULL;
     }
 
     void insertar(int id, int puntaje, string nombre){
+        if (buscarId(this->raizId, id) != NULL) return; // No agregar si ya existe
         this->insertarDos(id, puntaje, nombre);
-    }
-
-    void inOrderId(){
-        this->inOrderRecId(this->raizId);
-    }
-
-    void inOrderP(){
-        this->inOrderRecP(this->raizP);
     }
 
     bool esVacio(){
@@ -225,9 +206,42 @@ class AVL {
     string impRank(int p){
         return std::to_string(contPuntaje(this->raizP, p));
     }
+
+    string getCant(){
+        return std::to_string(this->cant);
+    }
+
+    string impTop1(){
+        if(!this->mejor) return "sin_jugadores";
+        return this->mejor->nombre + " " + std::to_string(this->mejor->puntaje);
+    }
 };
 
 int main()
 {
-    return 0;
+    int cant;
+    std::cin >> cant;
+    AVL avl;
+    for (int i = 0; i < cant; ++i) {
+        string op;
+        cin >> op;
+        if (op == "ADD") {
+            int id, puntaje;
+            string nombre;
+            cin >> id >> nombre >> puntaje;
+            avl.insertar(id, puntaje, nombre);
+        } else if (op == "FIND") {
+            int id;
+            cin >> id;
+            cout << avl.impFind(id) << endl;
+        } else if (op == "RANK") {
+            int p;
+            cin >> p;
+            cout << avl.impRank(p) << endl;
+        } else if (op == "TOP1") {
+            cout << avl.impTop1() << endl;
+        } else if (op == "COUNT") {
+            cout << avl.getCant() << endl;
+        }
+    }
 }
