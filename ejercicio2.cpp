@@ -69,36 +69,6 @@ class HashCerrado{
         return abs(a) % B;
     }
 
-    void insertarOrd(NodoLista*& lista, NodoLista* nuevo) {
-        if (!lista || nuevo->tiempo < lista->tiempo) {
-            nuevo->sig = lista;
-            lista = nuevo;
-        } else {
-            NodoLista* actual = lista;
-            while (actual->sig && actual->sig->tiempo < nuevo->tiempo) {
-                actual = actual->sig;
-            }
-            nuevo->sig = actual->sig;
-            actual->sig = nuevo;
-        }
-    }
-
-    NodoLista* sacarNodo(NodoLista*& raiz, string path) {
-        NodoLista* anterior = NULL;
-        NodoLista* aux  = raiz;
-        while (aux) {
-            if (aux->path == path) {
-                if (anterior) anterior->sig = aux->sig;
-                else      raiz = aux->sig;
-                aux->sig = NULL;
-                return aux;
-            }
-            anterior = aux;
-            aux  = aux->sig;
-        }
-        return NULL;
-    }
-
     public:
     HashCerrado(int capacidad){
         B = capacidad;
@@ -114,18 +84,25 @@ class HashCerrado{
             arr[pos].l = NULL;
             arr[pos].activo = true;
         }
-        NodoLista*& aux = arr[pos].l;
-        if(existe(dominio, path)){
-            NodoLista* nodo = sacarNodo(aux, path);
-            if(nodo){
-                nodo->titulo = titulo;
-                nodo->tiempo = tiempo;
-                insertarOrd(aux, nodo);
+        NodoLista* aux = arr[pos].l;
+        NodoLista* aux2 = NULL;
+        while(aux){
+            if(aux->path == path){
+                aux->titulo = titulo;
+                aux->tiempo = tiempo;
+                if(aux2){ // no esta al principio
+                    aux2->sig = aux->sig;
+                    aux->sig = arr[pos].l;
+                    arr[pos].l = aux;
+                }
                 return;
             }
+            aux2 = aux;
+            aux = aux->sig;
         }
         NodoLista* nuevo = new NodoLista(path, titulo, tiempo);
-        insertarOrd(aux, nuevo);
+        nuevo->sig = arr[pos].l;
+        arr[pos].l = nuevo;
         this->N++;
     }
 
