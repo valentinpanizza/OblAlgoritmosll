@@ -13,42 +13,106 @@ struct NodoLista {
     NodoLista(string _path, string _titulo, int _tiempo) : path(_path), titulo(_titulo), tiempo(_tiempo), sig(NULL) {}
 };
 
+struct NodoPath {
+    NodoLista* dato;
+    string dominio;
+    bool activo;
+    bool borrado;
+    NodoPath() : dato(NULL), dominio(""), activo(false), borrado(false) {}
+    NodoPath(string _dominio, NodoLista* l) : dato(l), dominio(_dominio), activo(true), borrado(false) {}
+};
+
 struct NodoHash {
     string dominio;
+    int cant;
     NodoLista* l;
-    bool activo;    
-    NodoHash() : dominio(""), l(NULL), activo(false) {}
-    NodoHash(string _dominio, NodoLista* _l) : dominio(_dominio), l(_l), activo(true) {}
+    bool activo; 
+    bool borrado;   
+    NodoHash() : dominio(""), cant(0), l(NULL), activo(false), borrado(false) {}
+    NodoHash(string _dominio, NodoLista* _l) : dominio(_dominio), cant(0), l(_l), activo(true), borrado(false) {}
 };
 
 class HashCerrado{
     private:
+    // tabla de clave dom y valor lista de path
     NodoHash* arr;
     int B;
     int N;
+    // tabla de clave dom + path y valor nodo de datos
+    NodoPath* arrPath;
 
-    int obtenerPos(string _clave) {
-        int h1 = hash1(_clave);
-        int h2 = hash2(_clave);
-        for (int i = 0; i < B; ++i) {
-            int pos = normalizar(h1 + i * h2);
-            if (!arr[pos].activo || arr[pos].dominio == _clave)
-                return pos;
-        }
-        return -1; // tabla llena
+    bool esPrimo(int n) { 
+        if (n <= 1) 
+            return false; 
+            for (int i = 2; i < n; i++) {
+                if (n % i == 0) {
+                    return false;
+                }
+            }
+        return true;
     }
 
-    bool existe(string clave, string path){
-        int pos = obtenerPos(clave);
-        if(pos == -1) return false;
-        if(!arr[pos].activo) return false;
-        NodoLista* aux = arr[pos].l;
-        while(aux){
-            if(aux->path == path)
-                return true;
-            aux = aux->sig;
+    int siguientePrimo (int n){
+        int cont = n;
+        while (true){
+            if (esPrimo(cont)) return cont;
+            cont++;
         }
-        return false;
+    }
+
+    int obtenerPos(string _clave) {
+        int h1 = abs(hash1(_clave)) % B;
+        int h2 = 1 + (abs(hash2(_clave)) % (B - 1));
+        int borrado = -1;
+        for (int i = 0; i < B; ++i) {
+            int pos = (h1 + i * h2) % B;
+            // si no hubo borrado sirve para insertar
+            if (!arr[pos].activo && !arr[pos].borrado) {
+                return (borrado != -1) ? borrado : pos;
+            }
+            // guardar borrado
+            if (arr[pos].activo && arr[pos].borrado) {
+                if (borrado == -1) borrado = pos;
+                continue;
+            }
+            // comparar dominio
+            if (arr[pos].dominio == _clave) {
+                return pos;
+            }
+        }
+        // si hay borrado insertar
+        return (borrado != -1) ? borrado : -1;
+    }
+
+    int obtenerPosPath(string dominio, string path) {
+        string key = dominio + path;
+        int h1 = abs(hash1(key)) % B;
+        int h2 = 1 + (abs(hash2(key)) % (B - 1));
+        int borrado = -1;
+        for (int i = 0; i < B; ++i) {
+            int pos = (h1 + i * h2) % B;
+            if (!arrPath[pos].activo && !arrPath[pos].borrado) {
+                return (borrado != -1) ? borrado : pos;
+            }
+            if (arrPath[pos].activo && arrPath[pos].borrado) {
+                if (borrado == -1) borrado = pos;
+                continue;
+            }
+            if (arrPath[pos].dominio == dominio &&
+                arrPath[pos].dato != NULL &&
+                arrPath[pos].dato->path == path) {
+                return pos;
+            }
+        }
+        return (borrado != -1) ? borrado : -1;
+    }
+
+    bool existe(string dominio, string path){
+        int pos = obtenerPosPath(dominio, path);
+        if(pos == -1) return false;
+        if(!arrPath[pos].activo) return false;
+        // por las dudas
+        return (arrPath[pos].dominio == dominio && arrPath[pos].dato && arrPath[pos].dato->path == path);
     }
 
     int hash1(string key) {
@@ -65,80 +129,103 @@ class HashCerrado{
         return h;
     }
 
-    int normalizar(int a){
-        return abs(a) % B;
+    void liberarLista(NodoLista* raiz) {
+        while (raiz) {
+            NodoLista* aux = raiz->sig;
+            delete raiz;
+            raiz = aux;
+        }
     }
 
     public:
     HashCerrado(int capacidad){
-        B = capacidad;
+        B = siguientePrimo(capacidad*2); // doble para menos colisiones
         N = 0;
         arr = new NodoHash[B]();
+        arrPath = new NodoPath[B]();
     }
 
     void put(string dominio, string path, string titulo, int tiempo){
         int pos = obtenerPos(dominio);
-        if(pos == -1) return;
-        if(!arr[pos].activo){ 
+        if (pos == -1) return;
+        if (!arr[pos].activo || arr[pos].borrado) {
             arr[pos].dominio = dominio;
             arr[pos].l = NULL;
+            arr[pos].cant = 0;
             arr[pos].activo = true;
+            arr[pos].borrado = false;
         }
-        NodoLista* aux = arr[pos].l;
-        NodoLista* aux2 = NULL;
-        while(aux){
-            if(aux->path == path){
-                aux->titulo = titulo;
-                aux->tiempo = tiempo;
-                if(aux2){ // no esta al principio
-                    aux2->sig = aux->sig;
-                    aux->sig = arr[pos].l;
-                    arr[pos].l = aux;
+        // buscar path
+        int posPath = obtenerPosPath(dominio, path);
+        if (posPath != -1 && arrPath[posPath].activo && !arrPath[posPath].borrado &&
+            arrPath[posPath].dato != NULL && arrPath[posPath].dato->path == path) {
+            // existe
+            NodoLista* node = arrPath[posPath].dato;
+            node->titulo = titulo;
+            node->tiempo = tiempo;
+            // mover al frente de la lista
+            if (arr[pos].l != node) {
+                NodoLista* prev = nullptr;
+                NodoLista* cur  = arr[pos].l;
+                while (cur && cur != node) { prev = cur; cur = cur->sig; }
+                if (cur) { // encontrado en la lista
+                    if (prev) prev->sig = cur->sig;   // lo saco de su lugar
+                    cur->sig = arr[pos].l;            // lo mando al frente
+                    arr[pos].l = cur;
                 }
-                return;
             }
-            aux2 = aux;
-            aux = aux->sig;
+            return;
         }
+        // no existe
         NodoLista* nuevo = new NodoLista(path, titulo, tiempo);
         nuevo->sig = arr[pos].l;
         arr[pos].l = nuevo;
+        arr[pos].cant++;
         this->N++;
-    }
-
-    float factorDeCarga() {
-        return (float)this->N/(float)this->B;
+        posPath = obtenerPosPath(dominio, path);
+        if (posPath == -1) return;
+        arrPath[posPath].dominio = dominio;
+        arrPath[posPath].dato = nuevo;
+        arrPath[posPath].activo = true;
+        arrPath[posPath].borrado = false;
     }
 
     string get(string dominio, string path){
-        int pos = obtenerPos(dominio);
-        if(pos == -1 || !arr[pos].activo) return "recurso_no_encontrado";
-        NodoLista* aux = arr[pos].l;
-        while(aux){
-            if(aux->path == path)
-                return aux->titulo + " " + to_string(aux->tiempo);
-            aux = aux->sig;
+        int pos = obtenerPosPath(dominio, path);
+        if (pos == -1) return "recurso_no_encontrado";
+        if (!arrPath[pos].activo || arrPath[pos].borrado) return "recurso_no_encontrado";
+        if (arrPath[pos].dominio != dominio || arrPath[pos].dato == nullptr || arrPath[pos].dato->path != path) {
+            return "recurso_no_encontrado";
         }
-        return "recurso_no_encontrado";
+        return arrPath[pos].dato->titulo + " " + to_string(arrPath[pos].dato->tiempo);
     }
 
     string contains(string dominio, string path) {
         return existe(dominio, path) ? "true" : "false";
     }
 
-    void clear_domain(string dominio) {
+    void clear_domain(const string& dominio) {
         int pos = obtenerPos(dominio);
-        if(pos == -1 || !arr[pos].activo) return;
+        if (pos == -1 || !arr[pos].activo || arr[pos].borrado) return;
         NodoLista* aux = arr[pos].l;
-        while(aux){
+        while (aux) {
+            int pr = obtenerPosPath(dominio, aux->path);
+            if (pr != -1 && arrPath[pr].activo && !arrPath[pr].borrado && 
+                arrPath[pr].dato && arrPath[pr].dato->path == aux->path) {
+                arrPath[pr].borrado = true;
+                arrPath[pr].activo  = true;
+                arrPath[pr].dato    = NULL;
+            }
             NodoLista* borro = aux;
             aux = aux->sig;
             delete borro;
-            this->N--;
+            --N;
         }
+        // vaciar lista del dominio
         arr[pos].l = NULL;
-        arr[pos].activo = false;
-        arr[pos].dominio = "";
+        arr[pos].cant = 0;
+        arr[pos].borrado = true;
+        arr[pos].activo  = true;
     }
 
     int size() {
@@ -146,48 +233,56 @@ class HashCerrado{
     }
 
     void clear() {
-        for(int i = 0; i < B; ++i){
-            NodoLista* aux = arr[i].l;
-            while(aux){
-                NodoLista* borro = aux;
-                aux = aux->sig;
-                delete borro;
+        for (int i = 0; i < B; ++i) {
+            if (arr[i].l) {
+                liberarLista(arr[i].l);
+                arr[i].l = NULL;
             }
-            arr[i].l = NULL;
-            arr[i].activo = false;
             arr[i].dominio = "";
+            arr[i].cant    = 0;
+            arr[i].activo  = false;   
+            arr[i].borrado = false;   
+        }
+        for (int j = 0; j < B; ++j) {
+            arrPath[j].dato    = NULL;
+            arrPath[j].dominio = "";
+            arrPath[j].activo  = false;
+            arrPath[j].borrado = false; 
         }
         N = 0;
     }
 
     void remove(string dominio, string path) {
-        int pos = obtenerPos(dominio);
-        if(pos == -1 || !arr[pos].activo) return;
-        NodoLista* aux = arr[pos].l;
-        NodoLista* prev = NULL;
-        while(aux){
-            if(aux->path == path){
-                if(prev) prev->sig = aux->sig;
-                else arr[pos].l = aux->sig;
-                delete aux;
-                this->N--;
-                return;
-            }
-            prev = aux;
-            aux = aux->sig;
+        int posDom = obtenerPos(dominio);
+        if (posDom == -1 || !arr[posDom].activo || arr[posDom].borrado) return;
+        int posPath = obtenerPosPath(dominio, path);
+        if (posPath == -1 || !arrPath[posPath].activo || arrPath[posPath].borrado ||
+            arrPath[posPath].dato == NULL || arrPath[posPath].dato->path != path) {
+            return;
         }
+        NodoLista* nodoP = arrPath[posPath].dato;
+        NodoLista* aux = NULL;
+        NodoLista* nodoD = arr[posDom].l;
+        while (nodoD && nodoD != nodoP) { 
+            aux = nodoD; 
+            nodoD = nodoD->sig; 
+        }
+        if (!nodoD) return;
+        if (aux) aux->sig = nodoD->sig;
+        else      arr[posDom].l = nodoD->sig;
+
+        delete nodoD;
+        --N;
+        --arr[posDom].cant;
+        arrPath[posPath].borrado = true;
+        arrPath[posPath].activo = true;
+        arrPath[posPath].dato = NULL;
     }
 
     int count_domain(string dominio){
         int pos = obtenerPos(dominio);
         if(pos == -1 || !arr[pos].activo) return 0;
-        int count = 0;
-        NodoLista* aux = arr[pos].l;
-        while(aux){
-            count++;
-            aux = aux->sig;
-        }
-        return count;
+        return arr[pos].cant;
     }
 
     string list_domain(string dominio){

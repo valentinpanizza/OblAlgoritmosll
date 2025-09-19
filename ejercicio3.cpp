@@ -9,8 +9,17 @@ struct NodoLista {
     string path;
     string titulo;
     int tiempo;
-    NodoLista* sig;
-    NodoLista(string _path, string _titulo, int _tiempo) : path(_path), titulo(_titulo), tiempo(_tiempo), sig(NULL) {}
+    NodoLista* sigP;
+    NodoLista* sigD;
+    NodoLista(string _path, string _titulo, int _tiempo) : path(_path), titulo(_titulo), tiempo(_tiempo), sigP(NULL), sigD(NULL) {}
+};
+
+struct NodoPath {
+    NodoLista* dato;
+    string dominio;
+    NodoPath* sig;
+    NodoPath() : dato(NULL), dominio(""), sig(NULL) {}
+    NodoPath(string _dominio, NodoLista* l) : dato(l), dominio(_dominio), sig(NULL) {}
 };
 
 struct NodoHash {
@@ -25,23 +34,63 @@ class HashAbierto
 {
     private:
     NodoHash** arr;
+    NodoPath** arrPath;
     int B;
     int N;
+
+    bool esPrimo(int n) { 
+        if (n <= 1) 
+            return false; 
+            for (int i = 2; i < n; i++) {
+                if (n % i == 0) {
+                    return false;
+                }
+            }
+        return true;
+    }
+
+    int siguientePrimo (int n){
+        int cont = n;
+        while (true){
+            if (esPrimo(cont)) return cont;
+            cont++;
+        }
+    }
 
     int normalizar(int a){
         return abs(a) % B;
     }
 
-    void insertarRec(NodoHash*& nodo, string _clave, NodoLista* _valor){
+    void insertarRecD(NodoHash*& nodo, string _clave, NodoLista* _valor){
         if(!nodo){
             nodo = new NodoHash(_clave, _valor);
             N++;
-        } else {
-            if (nodo->dominio == _clave)
-                nodo->l = _valor;
-            else 
-                insertarRec(nodo->sig, _clave, _valor);
+            return;
         }
+        if (nodo->dominio == _clave){
+            NodoLista* cur  = nodo->l;
+            NodoLista* prev = NULL;
+            while(cur){
+                if(cur->path == _valor->path){
+                    cur->titulo = _valor->titulo;
+                    cur->tiempo = _valor->tiempo;
+                    if(prev){
+                        prev->sigP = cur->sigP;
+                        cur->sigP  = nodo->l;
+                        nodo->l    = cur;
+                    }
+                    delete _valor;
+                    return;
+                }
+                prev = cur;
+                cur  = cur->sigP;
+            }
+            _valor->sigP = nodo->l;
+            nodo->l      = _valor;
+            N++;
+            return;
+        }
+        insertarRecD(nodo->sig, _clave, _valor);
     }
 
     bool existeRec(NodoHash* nodo, string _clave){
@@ -65,18 +114,19 @@ class HashAbierto
 
     public:
     HashAbierto(int capacidad){
-        B = capacidad;
-        arr = new NodoHash*[B]();
+        B = siguientePrimo(capacidad * 2);
         N = 0;
+        arr = new NodoHash*[B]();
+        arrPath = new NodoPath*[B]();
         for(int i = 0; i<B; i++) {
             arr[i] = NULL;
+            arrPath[i] = NULL;
         }
     }
 
-    void insertar(string _clave, NodoLista* _valor) {
-        int res = hash(_clave);
-        int pos = normalizar(res);
-        insertarRec(arr[pos], _clave, _valor);
+    void insertarD(string _clave, NodoLista* _valor) {
+        int pos = normalizar(hash(_clave));
+        insertarRecD(arr[pos], _clave, _valor);
     }
 
     bool existe(string _clave){
@@ -120,8 +170,7 @@ class HashAbierto
     }
 
     void put(string dominio, string path, string titulo, int tiempo){
-        int res = hash(dominio);
-        int pos = normalizar(res);
+        int pos = normalizar(hash(dominio));
         if(!existe(dominio)){
             NodoLista* nuevo = new NodoLista(path, titulo, tiempo);
             insertar(dominio, nuevo);
@@ -134,8 +183,8 @@ class HashAbierto
                 aux->titulo = titulo;
                 aux->tiempo = tiempo;
                 if(aux2){ // no esta al principio
-                    aux2->sig = aux->sig;
-                    aux->sig = consultar(dominio);
+                    aux2->sigP = aux->sigP;
+                    aux->sigP = consultar(dominio);
                     insertar(dominio, aux); // lo pongo al principio
                 }
                 return;
