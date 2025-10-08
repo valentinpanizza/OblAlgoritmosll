@@ -2,7 +2,6 @@
 #include <string>
 #include <iostream>
 #include <limits>
-
 using namespace std;
 
 struct NodoLista {
@@ -10,68 +9,58 @@ struct NodoLista {
     string titulo;
     int tiempo;
     NodoLista* sigP;
-    NodoLista* sigD;
-    NodoLista(string _path, string _titulo, int _tiempo) : path(_path), titulo(_titulo), tiempo(_tiempo), sigP(NULL), sigD(NULL) {}
-};
-
-struct NodoPath {
-    NodoLista* dato;
-    string dominio;
-    NodoPath* sig;
-    NodoPath() : dato(NULL), dominio(""), sig(NULL) {}
-    NodoPath(string _dominio, NodoLista* l) : dato(l), dominio(_dominio), sig(NULL) {}
+    NodoLista(string _path, string _titulo, int _tiempo)
+        : path(_path), titulo(_titulo), tiempo(_tiempo), sigP(NULL) {}
 };
 
 struct NodoHash {
     string dominio;
-    NodoLista* l;
-    NodoHash* sig;
+    NodoLista* l; // cabeza de la lista de recursos del dominio
+    NodoHash* sig; // siguiente dominio en el bucket
     NodoHash() : dominio(""), l(NULL), sig(NULL) {}
     NodoHash(string _dominio, NodoLista* _l) : dominio(_dominio), l(_l), sig(NULL) {}
 };
 
-class HashAbierto
-{
-    private:
-    NodoHash** arr;
-    NodoPath** arrPath;
-    int B;
-    int N;
+class HashAbierto {
+private:
+    NodoHash** arr;    // buckets
+    int B;             // tamaño tabla
+    int N;             // cantidad total de recursos (NO cuenta dominios)
 
-    bool esPrimo(int n) { 
-        if (n <= 1) 
-            return false; 
-            for (int i = 2; i < n; i++) {
-                if (n % i == 0) {
-                    return false;
-                }
-            }
+    bool esPrimo(int n) {
+        if (n < 2) return false;
+        if (n % 2 == 0) return n == 2;
+        for (int i = 3; 1LL*i*i <= n; i += 2)
+            if (n % i == 0) return false;
         return true;
     }
 
     int siguientePrimo (int n){
-        int cont = n;
-        while (true){
-            if (esPrimo(cont)) return cont;
-            cont++;
-        }
+        if (n <= 2) return 2;
+        if (n % 2 == 0) n++;
+        while (!esPrimo(n)) n += 2;
+        return n;
     }
 
     int normalizar(int a){
         return abs(a) % B;
     }
 
+    // Inserta/actualiza dentro del bucket encadenado
     void insertarRecD(NodoHash*& nodo, string _clave, NodoLista* _valor){
         if(!nodo){
+            // nuevo dominio con primer recurso
             nodo = new NodoHash(_clave, _valor);
-            N++;
+            N++; // agregamos un recurso nuevo
             return;
         }
         if (nodo->dominio == _clave){
+            // buscar si el path ya existe
             NodoLista* cur  = nodo->l;
             NodoLista* prev = NULL;
             while(cur){
                 if(cur->path == _valor->path){
+                    // actualizar y mover a cabeza si no está ya
                     cur->titulo = _valor->titulo;
                     cur->tiempo = _valor->tiempo;
                     if(prev){
@@ -79,49 +68,52 @@ class HashAbierto
                         cur->sigP  = nodo->l;
                         nodo->l    = cur;
                     }
-                    delete _valor;
+                    delete _valor; // no lo necesitamos, era temporal
                     return;
                 }
                 prev = cur;
                 cur  = cur->sigP;
             }
+            // no existía: insertar al frente (más reciente)
             _valor->sigP = nodo->l;
             nodo->l      = _valor;
-            N++;
+            N++; // recurso nuevo
             return;
         }
         insertarRecD(nodo->sig, _clave, _valor);
     }
 
     bool existeRec(NodoHash* nodo, string _clave){
-        if(!nodo){
-            return false;
-        } else {
-            return (nodo->dominio == _clave) ? true : existeRec(nodo->sig, _clave);
-        }
+        if(!nodo) return false;
+        return (nodo->dominio == _clave) ? true : existeRec(nodo->sig, _clave);
     }
 
     NodoLista* consultarRec(NodoHash* nodo, string _clave){
+        if(!nodo) return NULL;
         return (nodo->dominio == _clave) ? nodo->l : consultarRec(nodo->sig, _clave);
     }
 
     int hash(string key) {
-        int h = 0;
-        for (int i = 0; i < key.length(); i++)
-            h = 31 * h + int(key[i]);
-        return h;
+        long long h = 0;
+        for (size_t i = 0; i < key.length(); i++)
+            h = h * 131 + (unsigned char)key[i];
+        // compactar a int
+        return (int)(h ^ (h >> 32));
     }
 
-    public:
+public:
     HashAbierto(int capacidad){
         B = siguientePrimo(capacidad * 2);
         N = 0;
         arr = new NodoHash*[B]();
-        arrPath = new NodoPath*[B]();
         for(int i = 0; i<B; i++) {
             arr[i] = NULL;
-            arrPath[i] = NULL;
         }
+    }
+
+    ~HashAbierto(){
+        clear();
+        delete[] arr;
     }
 
     void insertarD(string _clave, NodoLista* _valor) {
@@ -130,15 +122,13 @@ class HashAbierto
     }
 
     bool existe(string _clave){
-        int res = hash(_clave);
-        int pos = normalizar(res);
+        int pos = normalizar(hash(_clave));
         return existeRec(arr[pos], _clave);
     }
 
     NodoLista* consultar(string clave) {
         assert(existe(clave));
-        int res = hash(clave); 
-        int pos = normalizar(res);
+        int pos = normalizar(hash(clave));
         return consultarRec(arr[pos], clave);
     }
 
@@ -159,7 +149,7 @@ class HashAbierto
                 NodoLista* aux2 = borro->l;
                 while(aux2){
                     NodoLista* borro2 = aux2;
-                    aux2 = aux2->sig;
+                    aux2 = aux2->sigP;
                     delete borro2;
                 }
                 delete borro;
@@ -170,32 +160,8 @@ class HashAbierto
     }
 
     void put(string dominio, string path, string titulo, int tiempo){
-        int pos = normalizar(hash(dominio));
-        if(!existe(dominio)){
-            NodoLista* nuevo = new NodoLista(path, titulo, tiempo);
-            insertar(dominio, nuevo);
-            return;
-        }
-        NodoLista* aux = consultar(dominio);
-        NodoLista* aux2 = NULL;
-        while(aux){
-            if(aux->path == path){
-                aux->titulo = titulo;
-                aux->tiempo = tiempo;
-                if(aux2){ // no esta al principio
-                    aux2->sigP = aux->sigP;
-                    aux->sigP = consultar(dominio);
-                    insertar(dominio, aux); // lo pongo al principio
-                }
-                return;
-            }
-            aux2 = aux;
-            aux = aux->sig;
-        }
         NodoLista* nuevo = new NodoLista(path, titulo, tiempo);
-        nuevo->sig = consultar(dominio);
-        insertar(dominio, nuevo);
-        this->N++;
+        insertarD(dominio, nuevo);
     }
 
     string get(string dominio, string path){
@@ -204,7 +170,7 @@ class HashAbierto
         while(aux){
             if(aux->path == path)
                 return aux->titulo + " " + to_string(aux->tiempo);
-            aux = aux->sig;
+            aux = aux->sigP; 
         }
         return "recurso_no_encontrado";
     }
@@ -215,26 +181,28 @@ class HashAbierto
         while(aux){
             if(aux->path == path)
                 return "true";
-            aux = aux->sig;
+            aux = aux->sigP;
         }
         return "false";
     }
 
     void clear_domain(string dominio) {
         if(!existe(dominio)) return;
-        int res = hash(dominio);
-        int pos = normalizar(res);
+        int pos = normalizar(hash(dominio));
         NodoHash* aux = arr[pos];
         NodoHash* prev = NULL;
         while(aux){
             if(aux->dominio == dominio){
+                // sacar nodo dominio de la lista del bucket
                 if(prev) prev->sig = aux->sig;
                 else arr[pos] = aux->sig;
-                NodoLista* aux2 = aux->l;
-                while(aux2){
-                    NodoLista* borro2 = aux2;
-                    aux2 = aux2->sig;
-                    delete borro2;
+
+                // liberar todos los recursos y descontar N
+                NodoLista* cur = aux->l;
+                while(cur){
+                    NodoLista* borro = cur;
+                    cur = cur->sigP;
+                    delete borro;
                     this->N--;
                 }
                 delete aux;
@@ -251,7 +219,7 @@ class HashAbierto
         int count = 0;
         while(aux){
             count++;
-            aux = aux->sig;
+            aux = aux->sigP; 
         }
         return count;
     }
@@ -262,7 +230,7 @@ class HashAbierto
         NodoLista* aux = consultar(dominio);
         while(aux){
             ret += aux->path ;
-            aux = aux->sig;
+            aux = aux->sigP;
             if(aux) ret += " ";
         }
         return ret;
@@ -270,23 +238,22 @@ class HashAbierto
 
     void remove(string dominio, string path) {
         if(!existe(dominio)) return;
-        int res = hash(dominio);
-        int pos = normalizar(res);
+        int pos = normalizar(hash(dominio));
         NodoHash* aux = arr[pos];
         while(aux){
             if(aux->dominio == dominio){
-                NodoLista* aux2 = aux->l;
+                NodoLista* cur = aux->l;
                 NodoLista* prev = NULL;
-                while(aux2){
-                    if(aux2->path == path){
-                        if(prev) prev->sig = aux2->sig;
-                        else aux->l = aux2->sig;
-                        delete aux2;
+                while(cur){
+                    if(cur->path == path){
+                        if(prev) prev->sigP = cur->sigP;
+                        else aux->l = cur->sigP;
+                        delete cur;
                         this->N--;
                         return;
                     }
-                    prev = aux2;
-                    aux2 = aux2->sig;
+                    prev = cur;
+                    cur = cur->sigP;
                 }
                 return;
             }
@@ -298,8 +265,9 @@ class HashAbierto
 int main()
 {
     int cant;
-    std::cin >> cant;
-    HashAbierto* tabla = new HashAbierto(cant);
+    if(!(cin >> cant)) return 0;
+    HashAbierto* tabla = new HashAbierto(max(1, cant));
+
     for (int i = 0; i < cant; ++i) {
         string op;
         cin >> op;
@@ -311,7 +279,7 @@ int main()
         } else if (op == "GET") {
             string dominio, path;
             cin >> dominio >> path;
-            cout << tabla->get(dominio, path) << endl;
+            cout << tabla->get(dominio, path) << "\n";
         } else if (op == "REMOVE") {
             string dominio, path;
             cin >> dominio >> path;
@@ -319,23 +287,25 @@ int main()
         } else if (op == "CONTAINS") {
             string dominio, path;
             cin >> dominio >> path;
-            cout << tabla->contains(dominio, path) << endl;
+            cout << tabla->contains(dominio, path) << "\n";
         } else if (op == "COUNT_DOMAIN") {
             string dominio;
             cin >> dominio;
-            cout << tabla->count_domain(dominio) << endl;
+            cout << tabla->count_domain(dominio) << "\n";
         } else if (op == "LIST_DOMAIN"){
             string dominio;
             cin >> dominio;
-            cout << tabla->list_domain(dominio) << endl;
+            cout << tabla->list_domain(dominio) << "\n";
         } else if (op == "CLEAR_DOMAIN"){
             string dominio;
             cin >> dominio;
             tabla->clear_domain(dominio);
         } else if (op == "SIZE"){
-            cout << tabla->size() << endl;
+            cout << tabla->size() << "\n";
         } else if (op == "CLEAR"){
             tabla->clear();
         }
     }
+    delete tabla;
+    return 0;
 }
