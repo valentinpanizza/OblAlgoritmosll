@@ -94,6 +94,7 @@ Se fusionan k listas enlazadas ordenadas usando un min-heap que guarda punteros 
 * Por cada uno de los N nodos: extracción e inserción en el heap → O(log k).
 * Total: O(N log k), espacio adicional O(k) por el heap.
 
+Nos basamos en las interpretaciones de MinHeap vistas en clase para realizar el ejercicio. 
 ## Ejercicio 5
 
 **Explicación breve de la solución:**
