@@ -2,184 +2,176 @@
 #include <string>
 #include <iostream>
 #include <limits>
-
+#include "tads/ListImp.cpp"
 using namespace std;
 
-struct Arista
-{
+struct Arista {
     int origen;
     int destino;
     int peso;
+
     Arista() : origen(0), destino(0), peso(0) {}
     Arista(int o, int d, int p) : origen(o), destino(d), peso(p) {}
 };
 
-bool esMenor(Arista a1, Arista a2){
-    return a1.peso < a2.peso;
-}
-
-class MFset
-{
+class minHeapp {
 private:
-    int *grupo;
-    int *altura;
+    Arista** array;
+    int N;
+    int proxaColocar;
+
+    int padre(int i) { 
+        return i / 2;
+     }
+    int Hizq(int i) {
+         return i * 2; 
+        }
+    int Hder(int i) {
+         return i * 2 + 1; 
+        }
+
+    void swap(int pos1, int pos2) {
+        Arista* aux = array[pos1];
+        array[pos1] = array[pos2];
+        array[pos2] = aux;
+    }
+
+    void flotar(int i) {
+        if (i > 1) {
+            if (array[i]->peso < array[i / 2]->peso) {
+                swap(i, i / 2);
+            }
+            flotar(i / 2);
+        }
+    }
+
+    void hundir(int p) {
+        if (Hizq(p) < proxaColocar) {
+            int hMenorpos = Hizq(p);
+            if (Hder(p) < proxaColocar) {
+                if (array[Hder(p)]->peso < array[Hizq(p)]->peso) {
+                    hMenorpos = Hder(p);
+                }
+            }
+            if (array[p]->peso > array[hMenorpos]->peso) {
+                swap(p, hMenorpos);
+                hundir(hMenorpos);
+            }
+        }
+    }
+
+    bool estaLleno() {
+        return proxaColocar > N;
+    }
+
+public:
+    minHeapp(int n) {
+        array = new Arista*[n + 1];
+        proxaColocar = 1;
+        N = n;
+    }
+
+    void agregar(Arista* nuevo) {
+        if (estaLleno()) return;
+        array[proxaColocar] = nuevo;
+        flotar(proxaColocar);
+        proxaColocar++;
+    }
+
+    Arista* removerTope() {
+        if (!estaVacio()) {
+            Arista* a = array[1];
+            array[1] = array[proxaColocar - 1]; 
+            proxaColocar--;
+            hundir(1);
+            return a;
+        }
+        return NULL;
+    }
+
+    Arista* tope() {
+        if (!estaVacio())
+            return array[1];
+        return NULL;
+    }
+
+    bool estaVacio() {
+        return proxaColocar == 1;
+    }
+};
+
+class mfSet {
+private:
+    int* padres;
+    int* altura;
     int cant;
 
 public:
-    MFset(int n)
-    {
-        cant = n;
-        grupo = new int[n];
-        altura = new int[n];
-        for (int i = 0; i < n; i++)
-        {
-            grupo[i] = i;
-            altura[i] = 0;
+    mfSet(int cantidad) {
+        padres = new int[cantidad];
+        altura = new int[cantidad];
+        cant = cantidad;
+
+        for (int i = 0; i < cantidad; i++) {
+            padres[i] = -1;
+            altura[i] = 1;
         }
     }
 
-    int find(int x)
-    {
-        if (grupo[x] != x) grupo[x] = find(grupo[x]);
-        return grupo[x];
+    int find(int v) {
+        if (padres[v] == v || padres[v] == -1) {
+            return v;
+        } else {
+            padres[v] = find(padres[v]);
+            return padres[v];
+        }
     }
 
-    void merge(int x, int y)
-    {
-        int grupoX = find(x);
-        int grupoY = find(y);
-        if (grupoX != grupoY)
-        {
-            if (altura[grupoX] < altura[grupoY])
-            {
-                grupo[grupoX] = grupoY;
-            }
-            else if (altura[grupoX] > altura[grupoY])
-            {
-                grupo[grupoY] = grupoX;
-            }
-            else
-            {
-                grupo[grupoY] = grupoX;
-                altura[grupoX]++;
-            }
+    void unir(int v1, int v2) {
+        int padrev1 = find(v1);
+        int padrev2 = find(v2);
+
+        if (padrev1 == padrev2) return;
+
+        if (altura[padrev1] > altura[padrev2]) {
+            padres[padrev2] = padrev1;
+        } else if (altura[padrev1] < altura[padrev2]) {
+            padres[padrev1] = padrev2;
+        } else {
+            padres[padrev1] = padrev2;
+            altura[padrev2]++;
         }
     }
 };
 
-class MinHeap
-{
-    private:
-    Arista* arr;
-    int proxLibre;
-    int cap;
-    bool (*esMenor)(Arista, Arista);
+int main() {
+    int V, K;
+    cin >> V >> K;
 
-    int padre(int pos){
-        return pos / 2;
-    }
-
-    int hIzq(int pos){
-        return pos * 2;
-    }
-
-    int hDer(int pos) {
-        return (pos * 2) + 1;
-    }
-
-    void swap(int pos1, int pos2){
-        Arista a = arr[pos1];
-        arr[pos1] = arr[pos2];
-        arr[pos2] = a;
-    }
-
-    void flotar(int pos){
-        if(pos > 1){ // no estoy en la raiz
-            int posPadre = padre(pos);
-            if(esMenor(arr[pos], arr[posPadre])){
-                swap(pos, posPadre);
-                flotar(posPadre);
-            }
-        }
-    }
-
-    void hundir(int pos){
-        int posIzq = hIzq(pos);
-        int posDer = hDer(pos);
-        if(posIzq < proxLibre) { // no es una hoja
-            int posHMenor = posIzq;
-            if(posDer < proxLibre && esMenor(arr[posDer], arr[posIzq])) { // si el derecho es menor
-                posHMenor = posDer; // cambio el menor
-            }
-            if(esMenor(arr[posHMenor], arr[pos])) {
-                swap(pos, posHMenor);
-                hundir(posHMenor);
-            }
-        }
-    }
-
-    public:
-    MinHeap(int _cap, bool (*_esMenor)(Arista, Arista)){
-        arr = new Arista[_cap + 1];
-        proxLibre = 1;
-        cap = _cap;
-        esMenor = _esMenor;
-    }
-
-    void agregar(Arista el){
-        assert(!estaLleno());
-        arr[proxLibre] = el;
-        flotar(proxLibre);
-        proxLibre++;
-    }
-
-    void removerTope(){
-        assert(!estaVacio());
-        arr[1] = arr[proxLibre-1];
-        proxLibre--;
-        hundir(1);
-    }
-
-    bool estaLleno(){
-        return proxLibre > cap; // >= para base 0
-    }
-
-    bool estaVacio(){
-        return proxLibre == 1; // 0 para base 0
-    }
-
-    Arista tope(){
-        assert(!estaVacio());
-        return arr[1];
-    }
-};
-
-int main()
-{
-    int v, e;
+    int cont = 0;
     int peso = 0;
-    int cant = 0;
-    cin >> v >> e;
-    MinHeap* aristas = new MinHeap(e, esMenor);
-    int o, d, p;
-    for(int i = 0; i < e; i++){
-        cin >> o >> d >> p;
-        aristas->agregar(Arista(o, d, p));
-    }
-    MFset* mfset = new MFset(v);
-    while(!aristas->estaVacio() ){
-        Arista a = aristas->tope();
-        aristas->removerTope();
 
-        if(mfset->find(a.origen) != mfset->find(a.destino)){
-            mfset->merge(a.origen, a.destino);
-            peso += a.peso;
-            cant++;
-            if(cant == v - 1) break;
-        }
+    minHeapp heap(K);
+
+    for (int i = 0; i < K; i++) {
+        int u, v, w;
+        cin >> u >> v >> w;
+        Arista* a = new Arista(u, v, w);
+        heap.agregar(a);
     }
+
+    mfSet mf(V);
+
+    while (!heap.estaVacio()) {
+        Arista* a = heap.removerTope();
+        if (mf.find(a->origen) != mf.find(a->destino)) {
+            mf.unir(a->origen, a->destino);
+            cont++;
+            peso += a->peso;
+        }
+        delete a; // opcional
+    }
+
     cout << peso << endl;
-    delete mfset;
-    delete aristas;
     return 0;
 }
