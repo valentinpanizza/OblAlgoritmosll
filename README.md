@@ -86,7 +86,7 @@ Operaciones: PUT inserta/actualiza y, si el path ya existe, lo mueve al comienzo
 ## Ejercicio 4
 
 **Explicación breve de la solución:**
-Se fusionan k listas enlazadas ordenadas usando un min-heap que guarda punteros a los nodos cabeza de cada lista. Se extrae siempre el nodo con menor valor, se imprime y, si tenía siguiente, se vuelve a insertar ese siguiente en el heap.
+Se fusionan k listas enlazadas ordenadas usando un min-heap que guarda punteros a los cabezales de cada lista. Se extrae siempre el nodo con menor valor, se imprime y, si tenía siguiente, se vuelve a insertar ese siguiente en el heap.
 
 **Justificación de la complejidad:**
 * Estructuras: listas enlazadas simples + min-heap de tamaño ≤ k.
