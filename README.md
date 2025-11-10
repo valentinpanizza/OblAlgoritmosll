@@ -95,6 +95,7 @@ Se fusionan k listas enlazadas ordenadas usando un min-heap que guarda punteros 
 * Total: O(N log k), espacio adicional O(k) por el heap.
 
 Nos basamos en las interpretaciones de MinHeap vistas en clase para realizar el ejercicio. 
+
 ## Ejercicio 5
 
 **Explicación breve de la solución:**
@@ -108,8 +109,6 @@ Se implementa Kruskal para obtener el peso del MST:
 * Bucle principal: hasta E extracciones tope/remover del MinHeap → O(E log E), y cada find/merge del MFset es O(log V).
 * Total: O(E log E + V log V) = (apox) O((V+E)logV).
 * Espacio: O(E + V) (heap de aristas + estructuras del MFset).
-
-Nos basamos en las interpretaciones de MFset y MinHeap vistas en clase para realizar el ejercicio.
 
 ## Pruebas
 

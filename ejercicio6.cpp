@@ -124,18 +124,18 @@ int main()
         cin >> vecino >> potencia;
         cantVecinos--;
     } else {
-        vecino = destino + 1; 
+        vecino = destino + 1; // para no agregar en 0
     }
 
     for(int i = 1; i <= destino; i++){
         while(vecino <= i){
             vecinos->agregar(potencia);
-            vecino = destino + 1; 
+            vecino = destino + 1; // para no volver a agregar este vecino
             if(cantVecinos > 0) {
                 cin >> vecino >> potencia;
-                cantVecinos--; //proceso el proximo para comparar
+                cantVecinos--;
             } else {
-                break; 
+                break; // no hay mas vecinos
             }
         }
 
