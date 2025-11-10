@@ -1,0 +1,630 @@
+Xavier 13109
+Xavier 13109
+Diana 36691
+3
+Diana 36691
+Diana 36691
+3
+Quincy 903036
+Will 596878
+Kate 66780
+7
+Luna 253808
+4
+Oscar 921206
+9
+Oscar 921206
+Diana 36691
+Kate 66780
+11
+11
+Luna 253808
+Oscar 921206
+jugador_no_encontrado
+13
+jugador_no_encontrado
+Mia 607095
+Vera 671219
+Diana 36691
+Hugo 538209
+Ulrich 980150
+21
+22
+Ulrich 980150
+22
+27
+27
+Henry 713272
+Vera 671219
+28
+5
+28
+28
+Eve 615100
+Penny 206871
+Ulrich 980150
+Yara 425456
+Oscar 921206
+jugador_no_encontrado
+33
+34
+jugador_no_encontrado
+jugador_no_encontrado
+Kate 33662
+Charlie 687186
+35
+Eve 615100
+37
+Ulrich 980150
+38
+jugador_no_encontrado
+Rosa 551809
+38
+jugador_no_encontrado
+20
+2
+43
+43
+Xavier 656214
+Ulrich 980150
+44
+3
+Oscar 921206
+Ulrich 980150
+46
+Ulrich 980150
+Xavier 286857
+5
+50
+Vera 671219
+jugador_no_encontrado
+50
+Ulrich 980150
+Ben 825554
+53
+Uma 533778
+26
+jugador_no_encontrado
+jugador_no_encontrado
+58
+jugador_no_encontrado
+59
+59
+59
+Bob 125984
+jugador_no_encontrado
+Zara 150849
+61
+62
+62
+jugador_no_encontrado
+Victor 200296
+jugador_no_encontrado
+Rosa 551809
+Ulrich 980150
+66
+30
+67
+68
+Luna 463936
+Jack 449925
+68
+68
+Ulrich 980150
+Jake 174106
+Ulrich 980150
+71
+43
+Felix 207109
+23
+0
+73
+1
+Charlie 687186
+73
+52
+80
+Ulrich 980150
+8
+Ulrich 980150
+Uma 399389
+Penny 686791
+jugador_no_encontrado
+9
+86
+Ulrich 980150
+Ulrich 980150
+Henry 205479
+Oscar 921206
+89
+Ulrich 980150
+93
+Xavier 286857
+93
+Tina 579574
+Ulrich 980150
+Xavier 13109
+98
+98
+Quincy 292885
+98
+Ulrich 980150
+Max 417339
+Olivia 70110
+98
+Liam 49240
+Zara 221151
+99
+Yara 425456
+Hugo 979596
+102
+102
+Rosa 68211
+19
+104
+106
+jugador_no_encontrado
+Oscar 881472
+Yara 419019
+108
+Ulrich 980150
+David 712252
+110
+Ulrich 980150
+jugador_no_encontrado
+jugador_no_encontrado
+Tina 733254
+Ulrich 980150
+6
+jugador_no_encontrado
+114
+115
+Ulrich 980150
+jugador_no_encontrado
+117
+Ulrich 980150
+Victor 515391
+74
+Luna 749331
+51
+122
+123
+Quincy 903036
+123
+Ulrich 990255
+123
+Ulrich 990255
+124
+David 512776
+124
+Ulrich 990255
+124
+Yara 686173
+126
+Ulrich 990255
+129
+Ulrich 990255
+Quincy 889847
+Ulrich 990255
+Uma 783838
+Ulrich 990255
+Ulrich 990255
+131
+Ulrich 990255
+Olivia 70110
+134
+8
+69
+135
+135
+Will 596878
+Ulrich 990255
+jugador_no_encontrado
+Oscar 776686
+Kate 991274
+Hugo 701716
+26
+Victor 515391
+jugador_no_encontrado
+Gina 268055
+jugador_no_encontrado
+Will 451494
+105
+150
+70
+jugador_no_encontrado
+Kate 991274
+Kate 991274
+Kate 991274
+Zara 190345
+Kate 991274
+156
+156
+Charlie 483939
+156
+Mia 830038
+Grace 319013
+Grace 319013
+156
+Diana 507580
+Clara 736683
+Olivia 70110
+Kate 991274
+Kate 991274
+158
+jugador_no_encontrado
+Kate 991274
+158
+160
+Luna 463936
+jugador_no_encontrado
+jugador_no_encontrado
+161
+Mia 501780
+54
+Tessa 369296
+Victor 515391
+122
+158
+jugador_no_encontrado
+Kate 991274
+Penny 206871
+Penny 686791
+145
+Kate 991274
+80
+Ruby 782206
+164
+Ben 560158
+Tina 43889
+164
+Vera 671219
+Oscar 776686
+jugador_no_encontrado
+jugador_no_encontrado
+Ben 994882
+170
+Mia 830038
+171
+171
+77
+Kate 991274
+Ruby 782206
+108
+jugador_no_encontrado
+131
+105
+147
+29
+Vera 217186
+65
+107
+175
+177
+Ben 994882
+177
+177
+177
+Wendy 659199
+179
+Zara 798207
+Quinn 731924
+jugador_no_encontrado
+jugador_no_encontrado
+181
+Ben 994882
+Alice 95652
+Mia 976095
+Ben 994882
+Ben 994882
+Ben 994882
+Ben 994882
+189
+jugador_no_encontrado
+Xavier 286857
+7
+Ruby 914841
+Xavier 185356
+192
+jugador_no_encontrado
+193
+197
+198
+198
+Ben 994882
+Iris 352861
+134
+Ben 994882
+199
+Yuki 184605
+Ben 994882
+30
+Ben 994882
+jugador_no_encontrado
+Ben 994882
+204
+205
+Ben 994882
+jugador_no_encontrado
+206
+Ben 994882
+Ben 994882
+208
+Zara 249479
+7
+Zoe 884989
+Emma 667232
+208
+Ben 994882
+jugador_no_encontrado
+Steve 102734
+Yuki 112419
+Ben 994882
+211
+211
+Max 63237
+148
+Vera 211097
+Ben 994882
+jugador_no_encontrado
+Ben 994882
+jugador_no_encontrado
+151
+Ben 994882
+Ben 994882
+Eve 615100
+Will 507770
+225
+jugador_no_encontrado
+jugador_no_encontrado
+Ben 994882
+227
+228
+jugador_no_encontrado
+Ben 994882
+14
+228
+Eve 594656
+Wendy 864844
+230
+230
+Tina 503196
+Ben 994882
+Ben 994882
+233
+105
+Quincy 859275
+jugador_no_encontrado
+Eve 450622
+Ben 994882
+237
+6
+jugador_no_encontrado
+Ben 994882
+Xavier 656214
+Vera 724369
+Mia 607095
+Ben 994882
+Victor 771216
+157
+jugador_no_encontrado
+155
+Ben 994882
+Xavier 868490
+jugador_no_encontrado
+Luna 463936
+249
+Ben 994882
+Ben 994882
+143
+Ben 994882
+251
+Zara 670563
+251
+Ben 994882
+jugador_no_encontrado
+Wendy 490678
+257
+258
+259
+260
+Mia 501780
+Zara 444284
+Ben 994882
+113
+264
+Grace 509613
+60
+Kate 393691
+Ben 994882
+266
+jugador_no_encontrado
+268
+268
+268
+271
+271
+Ben 994882
+Ben 994882
+Wendy 659199
+David 295554
+Zara 249479
+273
+273
+273
+Tina 155477
+273
+275
+Uma 399389
+Sam 110881
+Grace 319013
+Penny 206871
+jugador_no_encontrado
+278
+278
+74
+Penny 619024
+12
+Ben 994882
+jugador_no_encontrado
+280
+171
+Ben 994882
+280
+Rosa 727047
+136
+Yara 686173
+31
+285
+jugador_no_encontrado
+Quincy 757866
+285
+Ben 994882
+Max 831963
+288
+288
+jugador_no_encontrado
+jugador_no_encontrado
+Ben 994882
+121
+Clara 522207
+104
+Jake 911975
+293
+8
+Ben 994882
+295
+244
+263
+297
+298
+Ben 825554
+293
+298
+jugador_no_encontrado
+Jack 635557
+jugador_no_encontrado
+281
+103
+237
+Eve 785988
+Grace 72132
+Ben 994882
+Ben 994882
+300
+Ben 994882
+Zara 670563
+jugador_no_encontrado
+Tina 43889
+jugador_no_encontrado
+jugador_no_encontrado
+194
+Kate 351513
+304
+220
+Ben 994882
+Alice 95652
+jugador_no_encontrado
+jugador_no_encontrado
+200
+Penny 686791
+jugador_no_encontrado
+jugador_no_encontrado
+jugador_no_encontrado
+Diana 36691
+317
+317
+Ben 994882
+Xavier 185356
+Steve 647357
+320
+Ivy 903784
+323
+323
+325
+325
+Ruby 684865
+jugador_no_encontrado
+Ben 994882
+Alex 111317
+jugador_no_encontrado
+316
+Kate 393691
+jugador_no_encontrado
+Diana 276194
+jugador_no_encontrado
+332
+333
+Zoe 153806
+Ivy 194245
+Ben 994882
+Vera 724369
+Ben 994882
+Oscar 443453
+Noah 835083
+Felix 207109
+334
+jugador_no_encontrado
+335
+336
+Ben 994882
+336
+jugador_no_encontrado
+336
+337
+337
+337
+338
+338
+338
+jugador_no_encontrado
+339
+216
+339
+339
+Ben 994882
+Zoe 174618
+jugador_no_encontrado
+131
+342
+345
+Ben 994882
+Ben 994882
+117
+Tina 703385
+Ulrich 980150
+349
+Ben 994882
+355
+jugador_no_encontrado
+Kate 991274
+jugador_no_encontrado
+357
+Emma 477039
+357
+Charlie 636374
+Ben 994882
+358
+jugador_no_encontrado
+Ben 994882
+124
+176
+Penny 686791
+Ben 886031
+jugador_no_encontrado
+359
+Clara 522207
+360
+Ben 994882
+362
+jugador_no_encontrado
+Ben 196539
+365
+Zoe 174618
+64
+367
+367
+Ruby 220799
+369
+370
+Ben 994882

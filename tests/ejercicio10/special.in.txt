@@ -1,0 +1,32 @@
+S
+3
+7 6
+C C C C C C
+C A B D F C
+C G H I J C
+C C C C C C
+C K L M N C
+C O P Q S C
+C C C C C C
+13 12
+C K L L D I C L J U P M
+C C C C C C C C C C C C
+X C C Q W P I J T D B Z
+G T C C X Z X Z X Z X Z
+C C C C C C C C C C C C
+L V O H C C Q F K H T Y
+G G G G G C C N V M S A
+C C C C C C C C C C C C
+G G G G G G G C C R M D
+G G G G G G G G C C P S
+C C C C C C C C C C C C
+A S D F G H S A C Q W M
+C C C C C C C C C C C C
+7 7
+C C C C C C O
+G D B L C C P
+T W A X C C R
+C C C C C C L
+C C C C C C A
+H A S K C C S
+J D A F C C H

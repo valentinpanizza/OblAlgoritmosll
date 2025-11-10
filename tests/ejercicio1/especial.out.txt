@@ -1,0 +1,13 @@
+Bob 850
+Diana 900
+Eve 900
+5
+5
+2
+Bob 850
+jugador_no_encontrado
+5
+Eve 900
+5
+0
+5

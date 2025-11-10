@@ -1,0 +1,5899 @@
+Ivy 514808
+Penny 719812
+3
+Gina 193862
+3
+Penny 719812
+jugador_no_encontrado
+11
+0
+Gina 193862
+jugador_no_encontrado
+17
+22
+Henry 936365
+15
+Henry 936365
+Zara 208194
+Noah 231206
+26
+David 640283
+27
+Henry 936365
+Henry 936365
+32
+Jack 999062
+7
+Jack 999062
+7
+Diana 576783
+Emma 116426
+Jack 999062
+jugador_no_encontrado
+Henry 936365
+38
+jugador_no_encontrado
+38
+Jack 999062
+6
+Jack 999062
+Zara 208194
+21
+Zara 208194
+jugador_no_encontrado
+40
+40
+jugador_no_encontrado
+41
+Jack 999062
+7
+Jack 999062
+Jack 999062
+41
+jugador_no_encontrado
+44
+44
+47
+Clara 677037
+Luna 764835
+jugador_no_encontrado
+3
+Ben 393780
+49
+Sam 655700
+53
+Grace 308441
+Jack 999062
+Ben 990651
+53
+Eve 117383
+55
+55
+56
+Jack 999062
+Felix 620315
+Jack 999062
+56
+Jack 999062
+57
+15
+61
+61
+jugador_no_encontrado
+63
+Hugo 88629
+Jack 999062
+Jack 999062
+jugador_no_encontrado
+Eve 117383
+34
+69
+jugador_no_encontrado
+jugador_no_encontrado
+71
+Jack 999062
+Jack 999062
+74
+jugador_no_encontrado
+Jack 999062
+77
+78
+Jack 999062
+Iris 889943
+Jack 999062
+Jack 999062
+78
+Jack 999062
+Wendy 659172
+58
+81
+60
+jugador_no_encontrado
+84
+jugador_no_encontrado
+Grace 308441
+Jack 999062
+86
+jugador_no_encontrado
+11
+Nina 221247
+Oscar 766624
+88
+Jack 999062
+88
+jugador_no_encontrado
+Jack 999062
+Yuki 546984
+Jack 999062
+47
+jugador_no_encontrado
+Sam 41859
+93
+Jack 999062
+78
+94
+jugador_no_encontrado
+Sam 655700
+94
+Ben 973392
+98
+98
+Ulrich 139251
+jugador_no_encontrado
+Ben 973392
+48
+Penny 719812
+jugador_no_encontrado
+Jack 999062
+104
+Jack 999062
+110
+Grace 53707
+jugador_no_encontrado
+115
+115
+115
+Sam 473859
+115
+115
+Wendy 350920
+jugador_no_encontrado
+Xara 962034
+jugador_no_encontrado
+Steve 356101
+jugador_no_encontrado
+118
+120
+120
+Mia 623132
+Sam 473859
+121
+123
+118
+64
+Jack 999062
+Max 102531
+Jack 999062
+30
+Zoe 802707
+130
+Jack 999062
+133
+jugador_no_encontrado
+16
+David 640283
+Jack 999062
+Max 335630
+Jack 999062
+136
+73
+Iris 889943
+Alex 323076
+137
+125
+83
+140
+Henry 391230
+Olivia 834747
+Jack 999062
+jugador_no_encontrado
+Kate 532268
+142
+142
+94
+143
+Jack 999062
+jugador_no_encontrado
+48
+148
+Jack 999062
+90
+150
+151
+154
+154
+156
+Vera 150802
+156
+157
+Tina 997203
+73
+Jack 999062
+Jack 999062
+Jack 999062
+Jack 999062
+jugador_no_encontrado
+152
+16
+164
+Felix 493099
+166
+Jack 999062
+Ruby 479488
+Jack 999062
+jugador_no_encontrado
+117
+Jack 999062
+Max 102531
+jugador_no_encontrado
+Diana 576783
+Jack 999062
+175
+148
+Jack 999062
+2
+Jack 999062
+Sam 41859
+Yuki 546086
+Jack 999062
+jugador_no_encontrado
+jugador_no_encontrado
+Jack 999062
+170
+179
+182
+Quinn 721911
+190
+32
+Henry 391230
+Quinn 14245
+Jack 999062
+Alex 147002
+Max 25396
+193
+Diana 458760
+132
+Eve 547093
+Jack 999062
+jugador_no_encontrado
+195
+Wendy 364547
+Diana 458760
+jugador_no_encontrado
+Rosa 795747
+Jack 999062
+Jack 999062
+jugador_no_encontrado
+Jack 999062
+jugador_no_encontrado
+205
+jugador_no_encontrado
+Jack 999062
+205
+75
+Eve 117383
+Henry 837829
+Jack 999062
+13
+198
+213
+Emma 806468
+jugador_no_encontrado
+161
+jugador_no_encontrado
+Gina 966431
+130
+Iris 889943
+138
+Jack 999062
+Peter 568868
+Emma 745326
+Steve 432424
+229
+Jack 999062
+Peter 285907
+jugador_no_encontrado
+221
+Jack 999062
+Jack 999062
+jugador_no_encontrado
+Grace 308441
+Olivia 167162
+Ivy 495365
+233
+Penny 719812
+Emma 116426
+Jack 999062
+Jack 999062
+Sam 655700
+Xara 264890
+235
+235
+David 640283
+Ulrich 73054
+236
+236
+236
+223
+Jack 999062
+Kate 523965
+236
+jugador_no_encontrado
+jugador_no_encontrado
+Jack 999062
+Jack 999062
+134
+Grace 308441
+241
+226
+jugador_no_encontrado
+129
+Noah 489086
+242
+Oscar 450590
+Wendy 659172
+133
+Jack 999062
+Jack 999062
+Zara 73341
+245
+245
+jugador_no_encontrado
+jugador_no_encontrado
+Jack 999062
+245
+Charlie 58033
+247
+jugador_no_encontrado
+Tina 166495
+Tina 272432
+29
+Alice 706968
+Xavier 891949
+248
+Jack 999062
+Jack 999062
+Victor 547847
+220
+Ivy 514808
+Grace 331141
+Iris 967843
+Nina 221247
+Yuki 546086
+195
+260
+264
+265
+Jack 999062
+127
+Xavier 891949
+jugador_no_encontrado
+272
+Clara 144876
+jugador_no_encontrado
+Alex 505801
+277
+277
+279
+Yara 895670
+Quincy 710925
+Alex 421360
+267
+Yara 516367
+Jack 999062
+Clara 412504
+Nina 819921
+244
+287
+Yuki 546984
+290
+jugador_no_encontrado
+294
+294
+218
+171
+Xara 297171
+Kate 929134
+219
+Jack 999062
+299
+299
+Iris 733512
+299
+Jack 999062
+299
+Jack 999062
+jugador_no_encontrado
+Kate 156954
+301
+301
+106
+Jack 999062
+Uma 286330
+Uma 426814
+305
+307
+Alex 696696
+308
+Jack 999062
+Diana 576783
+Jack 999062
+Yara 425933
+165
+311
+Yuki 432288
+312
+Emma 535993
+291
+Jack 999062
+Jack 999062
+314
+Luna 484985
+Jack 999062
+317
+Vera 150802
+317
+Iris 967843
+275
+Jack 999062
+Jack 999062
+Diana 584581
+Olivia 866148
+168
+246
+322
+Xara 240565
+Jack 999062
+322
+324
+324
+Jack 999062
+326
+295
+Eve 547093
+327
+327
+jugador_no_encontrado
+jugador_no_encontrado
+Sam 41859
+Diana 584581
+Jack 999062
+331
+332
+Ben 973392
+jugador_no_encontrado
+336
+336
+jugador_no_encontrado
+138
+Grace 53707
+Alex 307692
+Jack 999062
+337
+Jack 999062
+120
+337
+Jack 999062
+338
+Alice 706968
+Ben 546859
+341
+342
+297
+Jack 999062
+Jack 999062
+Jack 999062
+192
+Jack 999062
+Olivia 167162
+jugador_no_encontrado
+348
+348
+348
+348
+jugador_no_encontrado
+Uma 426814
+348
+247
+Yara 895670
+Liam 854721
+Clara 734067
+jugador_no_encontrado
+350
+Ivy 495365
+357
+357
+Jack 999062
+Jack 999062
+jugador_no_encontrado
+Ben 973392
+Clara 144876
+361
+362
+363
+Jack 999062
+jugador_no_encontrado
+369
+59
+369
+20
+369
+72
+Jack 999062
+371
+Ben 393780
+Olivia 297415
+116
+Jack 999062
+3
+Jack 999062
+Jack 999062
+Alice 236397
+375
+Ben 393780
+Jack 999062
+Jack 999062
+Iris 944676
+Quinn 931081
+379
+274
+381
+288
+290
+Jack 999062
+Sam 1713
+383
+383
+383
+Jack 999062
+Jack 999062
+383
+Olivia 58858
+383
+Ivy 21550
+Alex 218738
+383
+jugador_no_encontrado
+Alex 664254
+388
+388
+jugador_no_encontrado
+392
+Vera 150802
+Rosa 363067
+243
+Jack 999062
+Ben 545146
+jugador_no_encontrado
+jugador_no_encontrado
+Zoe 91751
+255
+Sam 548026
+3
+396
+396
+Henry 431205
+332
+Jack 999062
+397
+Peter 512475
+Jack 999062
+398
+402
+Jack 999062
+Luna 484985
+Iris 972452
+Quinn 721911
+408
+408
+7
+408
+162
+Emma 745326
+408
+Alice 236397
+Mia 903423
+Jack 999062
+409
+7
+Jack 999062
+Uma 937753
+306
+20
+361
+Alice 82500
+416
+417
+Emma 745326
+Frank 848376
+421
+Clara 144876
+304
+425
+Iris 733512
+Kate 26164
+431
+jugador_no_encontrado
+433
+433
+jugador_no_encontrado
+Steve 646775
+436
+436
+Kate 820857
+Emma 133482
+437
+145
+Jack 999062
+Alex 775602
+Jack 999062
+Charlie 288088
+438
+438
+438
+jugador_no_encontrado
+Uma 426814
+438
+jugador_no_encontrado
+Oscar 847068
+Eve 58249
+Gina 920991
+440
+Noah 231206
+7
+jugador_no_encontrado
+440
+440
+440
+Quinn 931081
+440
+Clara 820704
+Penny 488451
+Jack 999062
+jugador_no_encontrado
+jugador_no_encontrado
+Alice 236397
+Henry 837829
+Vera 880330
+Steve 535010
+447
+447
+Diana 576783
+317
+450
+451
+Jack 999062
+Uma 589510
+451
+452
+129
+452
+453
+447
+Clara 144876
+jugador_no_encontrado
+453
+453
+454
+jugador_no_encontrado
+174
+Frank 807369
+Jack 999062
+434
+jugador_no_encontrado
+Henry 351153
+187
+460
+460
+Olivia 422286
+Diana 334517
+Ben 120441
+jugador_no_encontrado
+Jack 999062
+Ruby 212749
+Jack 999062
+321
+Oscar 440023
+jugador_no_encontrado
+468
+jugador_no_encontrado
+Wendy 659172
+Noah 916977
+Jack 999062
+470
+471
+Jack 999062
+Steve 619504
+Penny 405758
+Jack 999062
+474
+474
+Zara 208194
+Jack 999062
+David 291481
+248
+87
+Xara 411865
+Charlie 310009
+jugador_no_encontrado
+476
+Jack 999062
+jugador_no_encontrado
+jugador_no_encontrado
+jugador_no_encontrado
+478
+294
+479
+479
+Olivia 259731
+479
+479
+jugador_no_encontrado
+Gina 545888
+Jack 999062
+481
+jugador_no_encontrado
+484
+Jack 999062
+485
+201
+Quincy 620892
+jugador_no_encontrado
+Jack 999062
+Jack 999062
+490
+Alice 236397
+Jack 999062
+25
+494
+495
+jugador_no_encontrado
+498
+308
+Jack 999062
+501
+jugador_no_encontrado
+501
+Xavier 891949
+502
+Jack 999062
+Jack 999062
+503
+jugador_no_encontrado
+Jack 999062
+505
+Tina 216502
+506
+507
+Jack 999062
+508
+509
+Xavier 971851
+509
+Bob 590251
+48
+510
+Jack 999062
+511
+Uma 426814
+511
+512
+512
+Jack 999062
+jugador_no_encontrado
+347
+513
+518
+441
+521
+Steve 356101
+522
+jugador_no_encontrado
+Nina 137366
+Yara 233175
+Henry 703848
+Yuki 546984
+247
+525
+526
+Ulrich 139251
+529
+Ben 391841
+9
+Clara 459985
+363
+jugador_no_encontrado
+jugador_no_encontrado
+Iris 263603
+534
+Grace 331141
+Alex 307692
+535
+Henry 936365
+530
+Jack 999062
+Uma 742529
+Olivia 55678
+541
+Ivy 514808
+Alice 82500
+Jack 999062
+58
+547
+jugador_no_encontrado
+jugador_no_encontrado
+547
+Luna 806305
+289
+Ulrich 676083
+Jack 999062
+Ruby 953450
+550
+Jack 999062
+550
+550
+551
+551
+Jack 999062
+554
+jugador_no_encontrado
+Victor 889173
+jugador_no_encontrado
+556
+Oscar 916932
+110
+Yuki 177825
+560
+560
+560
+560
+Ben 545146
+Jack 999062
+Sam 859308
+Felix 83057
+Ivy 225772
+565
+Iris 313738
+David 976113
+Jack 999062
+573
+574
+574
+574
+Jack 999062
+Penny 111769
+Jack 999062
+384
+Xara 784835
+Grace 738273
+481
+Jack 999062
+579
+582
+jugador_no_encontrado
+Jack 999062
+Jack 999062
+Tina 478968
+588
+Will 47984
+jugador_no_encontrado
+jugador_no_encontrado
+Jack 999062
+4
+513
+Alice 82500
+594
+594
+594
+596
+jugador_no_encontrado
+jugador_no_encontrado
+Ben 105138
+Jack 999062
+Yuki 79502
+605
+76
+Jack 999062
+Yara 763700
+608
+219
+611
+Jack 999062
+611
+jugador_no_encontrado
+612
+612
+612
+612
+Jack 999062
+Jack 999062
+615
+Jack 999062
+440
+248
+Ben 990651
+619
+Vera 881282
+Frank 450336
+623
+525
+Jack 26074
+551
+624
+625
+580
+jugador_no_encontrado
+627
+630
+Ben 509022
+369
+631
+633
+634
+Diana 291381
+David 474001
+Jack 999062
+635
+Jack 999062
+183
+640
+641
+641
+jugador_no_encontrado
+Ben 120441
+Jack 999062
+641
+Charlie 350883
+642
+Grace 331141
+643
+643
+643
+510
+436
+Tina 840687
+79
+Jack 999062
+571
+Jack 999062
+Jack 999062
+548
+648
+Jack 999062
+648
+480
+465
+Jack 999062
+492
+118
+Jack 999062
+Bob 225170
+jugador_no_encontrado
+Jack 999062
+655
+Liam 5121
+Ruby 927014
+442
+Alice 82500
+658
+Liam 891453
+Zoe 174651
+660
+Jack 999062
+Jack 999062
+Yara 341851
+661
+Uma 833016
+662
+Diana 366054
+Jack 999062
+666
+669
+Penny 901277
+Tina 440039
+669
+Grace 402402
+Liam 12549
+Ben 324278
+669
+219
+264
+672
+Jack 999062
+Jack 999062
+Uma 535434
+Henry 431205
+Bob 922373
+Hugo 135704
+78
+609
+678
+678
+Luna 637856
+Uma 348807
+Luna 637856
+679
+679
+Penny 405758
+685
+Tina 166495
+Rosa 363067
+685
+Grace 331141
+Jack 999062
+685
+685
+Frank 944928
+Felix 493099
+645
+Jack 999062
+jugador_no_encontrado
+690
+692
+487
+jugador_no_encontrado
+Kate 726450
+Clara 144876
+jugador_no_encontrado
+698
+698
+704
+326
+jugador_no_encontrado
+Jack 999062
+jugador_no_encontrado
+717
+Nina 327327
+jugador_no_encontrado
+Ruby 601504
+718
+Jack 999062
+720
+Yuki 647186
+jugador_no_encontrado
+724
+Yara 412405
+726
+Jack 999062
+727
+14
+Luna 806305
+Oscar 922606
+Ben 990651
+729
+Yara 412405
+Jack 999062
+536
+Zara 220782
+Jack 999062
+jugador_no_encontrado
+Iris 313738
+732
+732
+Jack 999062
+732
+732
+jugador_no_encontrado
+733
+jugador_no_encontrado
+Ruby 212749
+jugador_no_encontrado
+Jack 999062
+Bob 813423
+293
+Jack 999062
+619
+543
+90
+jugador_no_encontrado
+Jack 999062
+Zoe 802707
+744
+744
+jugador_no_encontrado
+Liam 539348
+Jack 999062
+524
+Iris 972452
+752
+Tessa 850578
+753
+753
+753
+494
+753
+Liam 474154
+306
+758
+Jack 999062
+Vera 190946
+Charlie 896984
+763
+Yara 999976
+138
+Ruby 474594
+jugador_no_encontrado
+Victor 395429
+jugador_no_encontrado
+Yara 999976
+770
+Zoe 818405
+770
+jugador_no_encontrado
+Yara 999976
+770
+Yara 999976
+771
+Frank 952715
+Yara 412405
+Penny 471543
+775
+775
+Yara 999976
+777
+777
+777
+Kate 523965
+778
+Jake 885691
+Yara 523884
+780
+Nina 137366
+782
+782
+Zoe 802707
+784
+784
+Rosa 484800
+784
+785
+Gina 190503
+Yara 999976
+Yara 999976
+Oscar 450590
+790
+373
+Diana 878280
+Tessa 850578
+Diana 974401
+794
+Charlie 310009
+796
+Ben 496095
+797
+797
+Gina 822149
+jugador_no_encontrado
+799
+Yara 999976
+799
+Yara 999976
+Bob 975568
+jugador_no_encontrado
+Luna 65677
+Ben 509022
+Zoe 456317
+516
+805
+198
+Sam 234188
+Henry 484676
+Wendy 474931
+jugador_no_encontrado
+809
+Iris 101157
+607
+Zara 406435
+814
+815
+David 612932
+141
+Nina 742116
+Yara 999976
+Henry 908632
+823
+Penny 239920
+829
+829
+Yara 999976
+Yuki 267170
+Quinn 314777
+Rosa 674563
+Olivia 55678
+834
+834
+721
+Iris 186179
+Steve 47367
+Kate 752697
+837
+837
+jugador_no_encontrado
+840
+841
+Emma 541604
+842
+Gina 629001
+843
+844
+Uma 589510
+Will 765765
+846
+2
+609
+jugador_no_encontrado
+849
+840
+jugador_no_encontrado
+Ben 496095
+Yara 999976
+jugador_no_encontrado
+522
+851
+jugador_no_encontrado
+851
+Yara 999976
+Eve 427315
+851
+853
+jugador_no_encontrado
+Grace 942995
+jugador_no_encontrado
+856
+856
+526
+856
+292
+Yara 999976
+Henry 118777
+858
+858
+859
+Kate 752697
+859
+859
+Bob 225170
+803
+Liam 67939
+863
+Felix 448507
+863
+jugador_no_encontrado
+jugador_no_encontrado
+Yara 999976
+Yara 999976
+jugador_no_encontrado
+869
+Frank 313443
+296
+872
+440
+828
+876
+876
+Yara 999976
+Emma 787906
+jugador_no_encontrado
+557
+881
+Yara 999976
+Yara 999976
+883
+Liam 340788
+884
+884
+Liam 78145
+884
+Bob 941393
+Liam 12549
+Henry 79653
+Xara 46598
+Wendy 410526
+Grace 83870
+Sam 859308
+471
+jugador_no_encontrado
+890
+Yara 999976
+Yara 999976
+896
+897
+897
+898
+899
+Xara 638812
+Sam 449029
+Iris 690200
+Xara 264890
+900
+Hugo 851364
+901
+902
+902
+902
+Rosa 144289
+Wendy 710644
+Yara 999976
+Yara 179813
+55
+Yara 999976
+911
+912
+Yara 999976
+Yara 999976
+49
+915
+jugador_no_encontrado
+916
+Yara 999976
+Yara 999976
+Ulrich 853782
+845
+919
+jugador_no_encontrado
+924
+jugador_no_encontrado
+jugador_no_encontrado
+Max 544813
+Yara 999976
+Zoe 482434
+Yara 999976
+926
+62
+926
+928
+928
+Jake 739995
+jugador_no_encontrado
+930
+930
+930
+Diana 767858
+930
+Bob 975568
+Victor 851662
+Yara 999976
+Yara 999976
+933
+jugador_no_encontrado
+Yara 999976
+Max 607932
+Yara 999976
+940
+940
+Eve 547093
+940
+940
+jugador_no_encontrado
+940
+940
+335
+Yara 999976
+Yara 999976
+Yara 999976
+Yara 999976
+Ivy 763489
+Ulrich 73054
+jugador_no_encontrado
+Rosa 370278
+949
+jugador_no_encontrado
+951
+Yara 999976
+Yara 999976
+Quincy 503814
+Yara 999976
+954
+Yara 999976
+571
+590
+Yara 999976
+Yara 999976
+jugador_no_encontrado
+Yara 999976
+jugador_no_encontrado
+jugador_no_encontrado
+619
+869
+Quinn 764399
+Kate 532268
+Yara 935348
+968
+Tina 627605
+969
+Will 683468
+970
+970
+137
+jugador_no_encontrado
+973
+Uma 833016
+Liam 769111
+Rosa 918594
+843
+981
+214
+983
+Yara 999976
+Yara 999976
+Yara 999976
+984
+985
+Yara 999976
+Peter 938465
+986
+Steve 230978
+990
+990
+jugador_no_encontrado
+jugador_no_encontrado
+704
+990
+Luna 484985
+Yara 999976
+jugador_no_encontrado
+jugador_no_encontrado
+993
+Henry 522036
+786
+Quincy 50051
+Alex 421360
+Charlie 350883
+Hugo 189766
+997
+212
+Luna 483214
+Rosa 795747
+Yara 999976
+999
+999
+999
+Grace 811751
+Vera 950072
+Yara 617824
+1003
+Yara 999976
+Yara 999976
+431
+1004
+1004
+Victor 298385
+Ben 839256
+jugador_no_encontrado
+Max 496865
+1008
+Yara 999976
+Charlie 498257
+jugador_no_encontrado
+Uma 184414
+jugador_no_encontrado
+Quincy 840749
+Ulrich 648152
+Ruby 364388
+Tina 840687
+Iris 944676
+Diana 879201
+789
+Yara 999976
+jugador_no_encontrado
+1021
+Quincy 100530
+Jack 999062
+Clara 144876
+Yara 999976
+Yara 999976
+Yara 35408
+Olivia 92446
+1027
+Yara 999976
+1028
+1014
+jugador_no_encontrado
+jugador_no_encontrado
+1029
+Max 496865
+1029
+1031
+Yara 999976
+Yara 999976
+Yara 283993
+1032
+Sam 234188
+Yuki 948505
+Charlie 209685
+1039
+jugador_no_encontrado
+1043
+571
+Yara 999976
+1047
+1047
+Steve 563174
+Yara 999976
+663
+Yara 999976
+188
+Yara 999976
+Yara 999976
+1058
+783
+Yara 999976
+Frank 296781
+575
+jugador_no_encontrado
+jugador_no_encontrado
+1064
+Yara 999976
+1065
+1067
+Quincy 898835
+1067
+1060
+Hugo 203474
+1067
+Will 683468
+Frank 992780
+341
+802
+Yara 999976
+1046
+Yara 999976
+Grace 116464
+1076
+1076
+1081
+Ruby 815332
+1081
+Ulrich 578084
+jugador_no_encontrado
+jugador_no_encontrado
+1084
+1084
+jugador_no_encontrado
+Yara 999976
+1084
+1086
+1088
+62
+Henry 604877
+33
+1092
+Eve 151861
+Yara 999976
+1092
+jugador_no_encontrado
+1092
+1094
+1094
+Nina 741752
+1094
+jugador_no_encontrado
+1071
+1094
+Liam 78145
+Yara 999976
+1096
+1096
+Diana 67235
+Yara 999976
+1097
+1097
+1097
+Yara 999976
+1097
+Max 928098
+Xara 240565
+Gina 193862
+1100
+Yara 999976
+1100
+Luna 422004
+Yara 999976
+131
+jugador_no_encontrado
+Luna 757287
+jugador_no_encontrado
+Yara 999976
+384
+Xara 204803
+Yara 999976
+jugador_no_encontrado
+234
+1103
+1103
+Yara 999976
+jugador_no_encontrado
+412
+Xara 702337
+1107
+1110
+Ivy 765393
+Uma 640960
+1111
+Ruby 953450
+jugador_no_encontrado
+Nina 455589
+1112
+Yara 999976
+1112
+Yara 999976
+Henry 908632
+jugador_no_encontrado
+Jack 390011
+Yara 999976
+1112
+1114
+86
+jugador_no_encontrado
+Tessa 625208
+Sam 371749
+834
+1117
+Hugo 60909
+Yara 999976
+1118
+Henry 745027
+Alex 886311
+Felix 336068
+Yara 999976
+1120
+Yara 999976
+Ben 82918
+Uma 286330
+Yara 999976
+David 640283
+David 497120
+1005
+Yara 999976
+1125
+Zara 631998
+Yara 999976
+Yara 999976
+jugador_no_encontrado
+213
+Frank 557820
+Yara 999976
+80
+109
+1133
+Jack 898203
+jugador_no_encontrado
+1134
+1134
+576
+882
+107
+Yara 999976
+jugador_no_encontrado
+jugador_no_encontrado
+Hugo 203474
+1140
+Yara 999976
+Yara 999976
+Yara 999976
+Luna 757287
+1142
+1143
+155
+Felix 123648
+jugador_no_encontrado
+1146
+Yara 999976
+Xavier 204077
+Mia 496142
+1150
+Jack 253703
+Yara 999976
+1154
+Uma 326212
+Yara 999976
+1157
+Yara 999976
+1157
+Felix 493099
+jugador_no_encontrado
+1158
+1158
+Yara 999976
+1163
+1163
+jugador_no_encontrado
+1167
+jugador_no_encontrado
+1167
+Yara 999976
+378
+1167
+Yara 999976
+1167
+Steve 302259
+343
+1169
+Tessa 609552
+Yara 999976
+1172
+Clara 790411
+Yara 999976
+864
+Yara 999976
+1174
+1176
+1176
+648
+Yara 999976
+1179
+1109
+443
+Liam 821722
+Yara 999976
+1187
+904
+204
+Mia 232093
+Iris 313738
+592
+782
+Yara 999976
+jugador_no_encontrado
+jugador_no_encontrado
+Zoe 677125
+1191
+jugador_no_encontrado
+1191
+1191
+907
+1196
+1196
+Victor 547847
+Yara 999976
+Vera 594243
+Yara 999976
+Felix 5543
+Iris 724153
+jugador_no_encontrado
+1197
+1198
+1199
+Henry 604877
+Grace 142236
+1200
+1200
+Yara 999976
+Quincy 715039
+Mia 84239
+353
+Vera 881282
+1202
+1206
+Penny 124966
+Yara 999976
+jugador_no_encontrado
+Yara 999976
+jugador_no_encontrado
+Yara 999976
+Yara 999976
+Kate 438298
+1088
+Rosa 674563
+Quinn 886070
+Tina 216502
+Yara 999976
+Yara 999976
+Noah 50337
+jugador_no_encontrado
+Yara 999976
+1213
+1214
+1214
+Iris 101157
+1215
+jugador_no_encontrado
+Yara 999976
+Luna 389674
+1220
+1220
+jugador_no_encontrado
+Kate 874195
+1223
+1223
+jugador_no_encontrado
+1159
+782
+1225
+1227
+Diana 584581
+1227
+Yara 999976
+Vera 224662
+jugador_no_encontrado
+1230
+1230
+Iris 733512
+Emma 310806
+Tina 509648
+Jack 999062
+Yara 999976
+jugador_no_encontrado
+1231
+Nina 1428
+jugador_no_encontrado
+jugador_no_encontrado
+1233
+1205
+321
+1166
+1233
+Steve 202556
+1233
+Xara 347327
+jugador_no_encontrado
+Emma 777890
+1238
+1238
+Yara 999976
+1239
+jugador_no_encontrado
+1239
+1240
+Ulrich 146800
+1240
+Clara 168742
+Yara 999976
+1244
+494
+jugador_no_encontrado
+900
+295
+Grace 942995
+Wendy 961895
+1245
+1246
+1246
+635
+1246
+Grace 191218
+Yara 999976
+jugador_no_encontrado
+jugador_no_encontrado
+Yara 77250
+Yara 999976
+1257
+Yara 999976
+49
+Emma 787906
+Yara 999976
+1260
+Yara 999976
+jugador_no_encontrado
+Max 729545
+jugador_no_encontrado
+1266
+1266
+Yara 999976
+1267
+1269
+Yara 999976
+Henry 79653
+434
+Yara 999976
+799
+1275
+1275
+1277
+Yara 999976
+jugador_no_encontrado
+Kate 532268
+1284
+Quincy 898835
+Frank 552314
+Clara 734067
+1288
+Yara 999976
+jugador_no_encontrado
+1288
+Yara 999976
+1288
+Alex 218738
+jugador_no_encontrado
+Yara 999976
+Zara 772954
+Wendy 364547
+Yara 999976
+Yara 999976
+Gina 397916
+1294
+Iris 972452
+Yara 999976
+Steve 202556
+1295
+jugador_no_encontrado
+1296
+Yara 999976
+Yara 999976
+1307
+126
+Yara 999976
+jugador_no_encontrado
+962
+jugador_no_encontrado
+jugador_no_encontrado
+1139
+Diana 214081
+341
+Yara 999976
+Max 399583
+1315
+Yara 999976
+Yara 999976
+Henry 867587
+641
+1323
+Ulrich 379227
+Penny 901786
+Yara 999976
+Mia 597835
+1327
+389
+Yara 999976
+1327
+Ivy 495365
+Luna 402412
+1340
+788
+1340
+Hugo 864165
+Yara 999976
+Yara 999976
+1343
+1345
+1345
+1346
+634
+373
+Steve 563174
+1347
+Yara 999976
+jugador_no_encontrado
+540
+977
+1348
+1349
+1350
+1350
+Grace 57880
+1351
+1355
+jugador_no_encontrado
+666
+Diana 67235
+Ivy 442931
+458
+Uma 937753
+Noah 376135
+1260
+Yara 999976
+1364
+Yara 999976
+1364
+Rosa 759704
+1365
+Nina 101292
+Yara 999976
+Penny 682589
+Charlie 656842
+239
+1372
+1372
+Diana 744079
+Yara 999976
+1372
+1373
+Charlie 668927
+Kate 903537
+jugador_no_encontrado
+Will 69346
+Yara 999976
+1376
+Hugo 247527
+1376
+Yara 999976
+jugador_no_encontrado
+1381
+Ben 739192
+Oscar 915370
+jugador_no_encontrado
+610
+Yara 999976
+205
+210
+1384
+Yara 999976
+437
+603
+1385
+jugador_no_encontrado
+Tina 272432
+Penny 947313
+jugador_no_encontrado
+Frank 555894
+1392
+1283
+jugador_no_encontrado
+Yara 999976
+1209
+380
+Vera 1399
+Tina 272432
+Emma 455463
+1178
+Eve 974533
+Yara 999976
+Victor 851662
+1314
+Eve 394244
+David 612932
+Yara 999976
+Wendy 497129
+1409
+Emma 806468
+1413
+jugador_no_encontrado
+Yara 999976
+Will 121876
+1415
+1415
+1054
+1415
+Henry 431205
+jugador_no_encontrado
+1417
+1418
+jugador_no_encontrado
+1419
+1419
+Wendy 497129
+jugador_no_encontrado
+1420
+Hugo 107717
+1421
+Iris 967843
+Yara 999976
+jugador_no_encontrado
+Wendy 59586
+jugador_no_encontrado
+Luna 566039
+jugador_no_encontrado
+Vera 453637
+Yara 999976
+Yara 999976
+1429
+1429
+1429
+Uma 273169
+1430
+jugador_no_encontrado
+jugador_no_encontrado
+1431
+1433
+Kate 849539
+1436
+Bob 209537
+1437
+1439
+Alice 82500
+Ivy 765393
+Alice 188641
+Yara 999976
+1001
+1444
+Ivy 375821
+Yuki 925895
+Yara 999976
+Yara 999976
+1444
+Yara 999976
+1444
+Yara 999976
+1447
+1447
+Emma 677900
+1448
+1448
+Yara 999976
+jugador_no_encontrado
+937
+Kate 765624
+196
+1454
+Luna 192721
+1460
+jugador_no_encontrado
+Felix 144448
+1463
+Felix 429622
+1244
+jugador_no_encontrado
+Olivia 808960
+jugador_no_encontrado
+1294
+1329
+jugador_no_encontrado
+1474
+Quincy 166673
+1475
+1475
+jugador_no_encontrado
+1478
+Ben 487400
+Yara 999976
+1479
+1479
+1481
+367
+Grace 332466
+1481
+109
+Penny 124966
+jugador_no_encontrado
+1483
+1483
+Bob 781010
+1483
+Yara 999976
+Oscar 557929
+1469
+Mia 137325
+1483
+1483
+Victor 293995
+36
+Yara 999976
+jugador_no_encontrado
+jugador_no_encontrado
+Jack 232659
+jugador_no_encontrado
+1129
+Sam 314572
+1488
+Yara 999976
+Yara 999976
+1453
+1495
+Emma 455343
+1495
+1502
+Yara 999976
+jugador_no_encontrado
+Yara 999976
+Yara 999976
+Yara 999976
+1249
+Max 928098
+1185
+jugador_no_encontrado
+Yara 999976
+Zoe 677125
+Eve 151861
+1510
+Yara 367011
+Yara 999976
+1512
+Mia 84239
+1512
+1513
+863
+Diana 354208
+Henry 800462
+1516
+jugador_no_encontrado
+Tessa 609552
+1517
+1517
+Yara 999976
+833
+Yara 999976
+Uma 937753
+874
+1524
+Ulrich 592479
+jugador_no_encontrado
+David 640283
+jugador_no_encontrado
+1526
+1527
+David 515386
+Tina 478968
+Yara 999976
+Yara 999976
+1534
+1534
+1537
+jugador_no_encontrado
+jugador_no_encontrado
+Alice 515640
+Grace 738273
+Kate 26164
+jugador_no_encontrado
+Yara 999976
+1543
+1545
+1545
+370
+Yara 999976
+Yara 999976
+Steve 230978
+935
+Quincy 125873
+Ivy 856362
+jugador_no_encontrado
+jugador_no_encontrado
+1352
+1554
+Yara 999976
+jugador_no_encontrado
+1559
+Yara 999976
+906
+Yara 999976
+1562
+Noah 591924
+1562
+552
+Emma 454957
+Steve 177540
+jugador_no_encontrado
+jugador_no_encontrado
+jugador_no_encontrado
+Luna 760727
+1569
+Yara 999976
+883
+Yara 999976
+304
+Yara 999976
+jugador_no_encontrado
+jugador_no_encontrado
+Yara 999976
+1575
+1576
+36
+1577
+1579
+1579
+jugador_no_encontrado
+1579
+1585
+Tina 840687
+Yara 999976
+1588
+Yara 999976
+Yara 999976
+1590
+1590
+jugador_no_encontrado
+Eve 205163
+1590
+Yara 999976
+jugador_no_encontrado
+Xavier 174823
+Yara 999976
+Alice 286583
+Nina 952741
+923
+1596
+Diana 658459
+1597
+1597
+jugador_no_encontrado
+1597
+Liam 539348
+1601
+1601
+Yara 999976
+1601
+jugador_no_encontrado
+1227
+Wendy 257813
+Jack 135918
+Oscar 164079
+431
+Yara 999976
+1608
+1608
+1208
+1610
+jugador_no_encontrado
+494
+Yara 999976
+jugador_no_encontrado
+1613
+1319
+Yara 715647
+Yara 999976
+1617
+1617
+1617
+1618
+1618
+Emma 674925
+Henry 605918
+Frank 296781
+Felix 336068
+Yara 999976
+1621
+1621
+1621
+1621
+jugador_no_encontrado
+Zoe 692088
+Wendy 31856
+76
+jugador_no_encontrado
+1601
+1624
+1073
+Luna 757287
+Peter 948990
+1631
+1633
+1634
+1634
+1636
+Yara 999976
+Zara 220782
+Yara 999976
+Rosa 755117
+1631
+1643
+440
+Frank 848376
+jugador_no_encontrado
+1645
+1645
+1217
+Henry 908632
+1648
+1649
+1649
+Yara 999976
+Xavier 864196
+1002
+1651
+Rosa 738973
+Yara 999976
+516
+Diana 354208
+Yara 663563
+Yara 999976
+1660
+1661
+Noah 259581
+39
+1348
+1662
+Ulrich 539539
+Mia 137941
+jugador_no_encontrado
+Yuki 321797
+Liam 5121
+Ivy 824700
+Yara 999976
+857
+1666
+jugador_no_encontrado
+Alex 68066
+Yara 999976
+Yara 999976
+1668
+1668
+1669
+1669
+Yara 999976
+1669
+Yara 999976
+1672
+1672
+1674
+Yara 999976
+726
+856
+Liam 17838
+Henry 157044
+jugador_no_encontrado
+Charlie 176684
+Yara 999976
+Yara 999976
+jugador_no_encontrado
+jugador_no_encontrado
+1679
+695
+Yara 999976
+1479
+Diana 334517
+jugador_no_encontrado
+jugador_no_encontrado
+1686
+Luna 123890
+Jake 451507
+Nina 609692
+Yara 999976
+Yara 999976
+Kate 726450
+1695
+Yara 999976
+Zoe 222509
+1700
+1700
+1700
+Yara 999976
+Nina 928370
+Yara 999976
+Uma 426814
+1679
+Mia 51810
+Yara 999976
+jugador_no_encontrado
+jugador_no_encontrado
+Sam 425678
+Yara 999976
+1709
+jugador_no_encontrado
+1288
+1712
+Alice 507254
+1715
+Yara 999976
+1246
+Emma 734111
+jugador_no_encontrado
+jugador_no_encontrado
+Ben 50022
+1172
+1722
+jugador_no_encontrado
+1724
+Yara 999976
+1724
+1724
+Jake 850520
+Xavier 76104
+1725
+668
+jugador_no_encontrado
+650
+Bob 975568
+Henry 665404
+Oscar 190555
+Jack 627701
+1728
+Yara 999976
+Nina 609692
+Yara 283993
+1730
+Penny 38662
+1281
+1732
+jugador_no_encontrado
+Yara 999976
+Yara 999976
+jugador_no_encontrado
+jugador_no_encontrado
+Ruby 901970
+Yara 999976
+Yara 999976
+339
+1743
+1678
+jugador_no_encontrado
+Yara 999976
+1745
+765
+1747
+1540
+Yara 999976
+Clara 838348
+853
+1756
+jugador_no_encontrado
+1757
+118
+1757
+1757
+Ulrich 539539
+1088
+Yara 999976
+1759
+Grace 170609
+Mia 137325
+Nina 1428
+1760
+1583
+1765
+Peter 938465
+1767
+Mia 232093
+Ben 641346
+1769
+Mia 573797
+1770
+1770
+jugador_no_encontrado
+1770
+1772
+337
+Henry 785278
+1776
+Rosa 263811
+Yara 999976
+Alice 828807
+1779
+1780
+Luna 13743
+Yara 999976
+jugador_no_encontrado
+Grace 872493
+1786
+jugador_no_encontrado
+1788
+Alice 384673
+1791
+Mia 573797
+Yara 999976
+1792
+Peter 451132
+1689
+Yara 999976
+1794
+Yara 999976
+1796
+1796
+1796
+1796
+Peter 687034
+Quincy 949595
+Zoe 222509
+David 640283
+1797
+Penny 910573
+1800
+1100
+Mia 176579
+1802
+Oscar 706354
+jugador_no_encontrado
+165
+1580
+1805
+760
+Yara 999976
+Henry 924315
+jugador_no_encontrado
+1566
+Yara 999976
+Yara 999976
+1809
+Felix 625452
+Jack 328523
+Zoe 9747
+1812
+1812
+Uma 101719
+Wendy 728398
+793
+1813
+Yara 999976
+Yara 999976
+1812
+537
+1814
+Bob 157673
+Yara 999976
+jugador_no_encontrado
+361
+1816
+1816
+Bob 885013
+jugador_no_encontrado
+1818
+jugador_no_encontrado
+669
+1821
+438
+Luna 745440
+1824
+Olivia 701256
+1826
+Yara 999976
+1446
+Vera 424522
+1829
+Yara 999976
+jugador_no_encontrado
+Quincy 299264
+Yara 999976
+902
+587
+Quinn 14245
+1831
+1113
+1831
+Yuki 970572
+jugador_no_encontrado
+Yara 999976
+1838
+Yara 746050
+Zara 348957
+1838
+1838
+jugador_no_encontrado
+1842
+1843
+1843
+1843
+1843
+Frank 296781
+Yara 999976
+Ivy 442931
+342
+1848
+Alex 632715
+jugador_no_encontrado
+Yara 999976
+1849
+Yara 999976
+Grace 402402
+404
+Uma 682062
+1849
+1849
+David 826381
+1849
+1672
+1849
+1001
+jugador_no_encontrado
+Yara 999976
+Jack 290396
+1852
+88
+1852
+1852
+1854
+Mia 450138
+1857
+Yara 35408
+1857
+1857
+374
+1857
+653
+1858
+1858
+897
+Luna 483214
+Gina 824025
+Diana 244036
+jugador_no_encontrado
+Yara 999976
+jugador_no_encontrado
+jugador_no_encontrado
+jugador_no_encontrado
+1864
+1864
+1864
+Charlie 444794
+281
+Tina 923970
+Jack 328523
+1868
+David 809557
+jugador_no_encontrado
+Emma 777890
+Olivia 259731
+jugador_no_encontrado
+Nina 292135
+jugador_no_encontrado
+1880
+987
+1882
+Felix 772310
+Oscar 847068
+463
+1882
+1783
+1887
+jugador_no_encontrado
+1890
+Quinn 721911
+Yara 999976
+jugador_no_encontrado
+1893
+Yara 999976
+Henry 837829
+1116
+Yara 999976
+jugador_no_encontrado
+Yara 999976
+Peter 659954
+810
+1899
+1900
+Tessa 625208
+Yara 999976
+1902
+Ruby 479194
+1903
+1772
+jugador_no_encontrado
+jugador_no_encontrado
+Xavier 867392
+Zoe 869298
+1907
+1907
+1907
+Yara 999976
+1796
+Quincy 848869
+1908
+1908
+Yara 999976
+1908
+Yara 999976
+1910
+Olivia 380467
+1912
+1914
+Yara 999976
+Noah 933615
+1914
+jugador_no_encontrado
+Liam 539348
+Wendy 728398
+Rosa 755117
+Max 660180
+Yara 999976
+Yara 999976
+Yara 999976
+327
+Jake 830355
+Hugo 59244
+Yara 999976
+1691
+Jack 721894
+1924
+Peter 343909
+jugador_no_encontrado
+jugador_no_encontrado
+Yara 999976
+Yara 999976
+jugador_no_encontrado
+1932
+Yara 999976
+1936
+Yara 999976
+jugador_no_encontrado
+Alex 663902
+jugador_no_encontrado
+David 131811
+Yara 999976
+39
+Penny 239920
+1940
+1942
+Yara 999976
+Olivia 817421
+1943
+Iris 880067
+Jake 1415
+jugador_no_encontrado
+Ivy 824700
+jugador_no_encontrado
+Ulrich 459152
+1945
+1947
+jugador_no_encontrado
+1376
+Penny 408964
+Yara 999976
+Yara 999976
+1949
+jugador_no_encontrado
+1069
+Felix 83057
+jugador_no_encontrado
+1950
+Tina 298840
+1951
+David 515386
+Yara 999976
+1956
+jugador_no_encontrado
+jugador_no_encontrado
+jugador_no_encontrado
+jugador_no_encontrado
+jugador_no_encontrado
+1956
+Yara 999976
+Yara 999976
+jugador_no_encontrado
+1956
+1955
+Yara 999976
+Oscar 372839
+jugador_no_encontrado
+Iris 263603
+1958
+Yara 700920
+1959
+Quincy 456653
+1959
+863
+Yara 999976
+Jack 390011
+Mia 121595
+jugador_no_encontrado
+1176
+731
+Yara 999976
+Clara 627090
+1966
+Victor 50661
+jugador_no_encontrado
+1657
+347
+1970
+1256
+jugador_no_encontrado
+Yara 49885
+1970
+jugador_no_encontrado
+1971
+1971
+Yara 999976
+1689
+1973
+jugador_no_encontrado
+Yara 999976
+1974
+Ivy 824700
+Xavier 728608
+1824
+1976
+Yara 999976
+1976
+Jake 691872
+1487
+1159
+1979
+Yara 999976
+Yara 999976
+jugador_no_encontrado
+Yara 999976
+Yara 999976
+1928
+Felix 316232
+849
+Yara 999976
+Peter 486430
+1983
+1983
+Yara 999976
+jugador_no_encontrado
+1987
+Wendy 589161
+Yara 999976
+177
+1977
+1977
+Iris 729098
+Rosa 60691
+Yara 999976
+jugador_no_encontrado
+Yara 999976
+1999
+Yara 999976
+1999
+Frank 736817
+Emma 347577
+Yara 999976
+2003
+Steve 216104
+Yuki 694692
+Yara 999976
+Yara 999976
+Steve 163653
+2006
+Jake 946067
+Charlie 333872
+jugador_no_encontrado
+Henry 326197
+Nina 1428
+2016
+2017
+2017
+Ruby 922371
+2017
+jugador_no_encontrado
+1245
+Zoe 869298
+Gina 957496
+jugador_no_encontrado
+590
+Yara 999976
+2023
+2023
+Sam 953376
+Bob 928090
+jugador_no_encontrado
+Zoe 818405
+Jack 236684
+Max 542260
+2033
+1757
+Yara 999976
+1713
+Nina 827360
+Jake 157112
+469
+2028
+2039
+Wendy 467755
+Ivy 910959
+2043
+1825
+Alex 886311
+2045
+2046
+Emma 806468
+Iris 606415
+Yara 999976
+2048
+2049
+Max 660180
+2053
+jugador_no_encontrado
+1942
+Yara 999976
+491
+2053
+Olivia 527694
+Yara 999976
+2055
+2055
+2055
+jugador_no_encontrado
+2058
+Uma 993694
+jugador_no_encontrado
+Ulrich 429284
+1776
+jugador_no_encontrado
+Grace 723885
+Grace 179410
+Yara 999976
+jugador_no_encontrado
+jugador_no_encontrado
+Eve 278352
+Yara 999976
+2070
+Charlie 23288
+Jack 389321
+2072
+Yara 999976
+Max 207378
+2072
+jugador_no_encontrado
+2073
+2075
+2075
+Yara 999976
+2080
+Yara 715647
+2080
+Penny 471543
+Yara 999976
+Victor 383209
+jugador_no_encontrado
+Yara 999976
+1344
+2083
+582
+2085
+Diana 467505
+Charlie 260916
+Yara 999976
+Max 25396
+Penny 345227
+2090
+2090
+Frank 552314
+Zara 940232
+Yara 999976
+Zoe 206650
+jugador_no_encontrado
+Frank 848376
+jugador_no_encontrado
+2095
+Ben 641346
+jugador_no_encontrado
+jugador_no_encontrado
+2098
+2098
+2099
+jugador_no_encontrado
+2099
+Uma 993694
+2101
+2103
+1404
+Henry 522036
+Emma 745326
+jugador_no_encontrado
+Yara 464546
+Ben 82918
+jugador_no_encontrado
+Alex 305025
+2109
+2109
+Yara 999976
+Max 207378
+Yuki 364782
+2111
+1592
+1395
+2114
+Noah 747600
+Luna 609169
+2117
+2119
+1393
+Yara 999976
+Yara 999976
+Clara 144876
+Jake 391010
+Ivy 251267
+Iris 589661
+2123
+Yara 999976
+388
+Yara 999976
+Rosa 675073
+2126
+jugador_no_encontrado
+Frank 313443
+Charlie 58033
+Yara 999976
+Yara 999976
+Max 497252
+jugador_no_encontrado
+Liam 54247
+jugador_no_encontrado
+Yara 999976
+2135
+jugador_no_encontrado
+Peter 869693
+2139
+Quincy 176199
+Liam 769111
+304
+jugador_no_encontrado
+jugador_no_encontrado
+2147
+2150
+2150
+Yara 999976
+Yara 999976
+2151
+2153
+2153
+Felix 123927
+Mia 622484
+Xara 204803
+Mia 496142
+1532
+Penny 967022
+Yara 999976
+2162
+jugador_no_encontrado
+Alice 173820
+Oscar 869814
+Yara 832274
+2171
+Yara 999976
+2172
+jugador_no_encontrado
+2172
+Olivia 892314
+1740
+2174
+Olivia 357708
+1497
+2175
+Luna 661763
+2175
+Sam 931090
+Xara 702337
+Yara 999976
+jugador_no_encontrado
+Jake 691872
+2177
+Will 947340
+591
+Yara 999976
+Yara 999976
+David 697621
+2177
+2177
+Kate 791786
+433
+Yara 999976
+2181
+2181
+730
+2183
+2182
+432
+Peter 966307
+2186
+Nina 939311
+Alex 397896
+Xavier 76104
+Wendy 961895
+Yara 999976
+2196
+Yara 999976
+Kate 153373
+Ruby 627311
+2201
+Yara 999976
+Yara 999976
+jugador_no_encontrado
+Max 400471
+2202
+jugador_no_encontrado
+jugador_no_encontrado
+Gina 824025
+Yara 999976
+2203
+Olivia 570708
+Yara 999976
+Iris 537198
+303
+Yara 999976
+jugador_no_encontrado
+Yara 999976
+Liam 216838
+1681
+2208
+2214
+2215
+jugador_no_encontrado
+Emma 225625
+Charlie 877961
+jugador_no_encontrado
+Will 811342
+1374
+jugador_no_encontrado
+843
+2220
+Yara 999976
+2220
+2220
+Yara 999976
+jugador_no_encontrado
+Gina 481966
+jugador_no_encontrado
+Gina 708794
+Yara 999976
+Yara 999976
+2232
+Yara 999976
+jugador_no_encontrado
+56
+Yara 700154
+Yara 999976
+Yara 999976
+2236
+jugador_no_encontrado
+Grace 15622
+Yara 999976
+Yara 999976
+2237
+Yara 999976
+2238
+Iris 808840
+2239
+Yara 999976
+Kate 929134
+2180
+jugador_no_encontrado
+Bob 814506
+Yara 999976
+jugador_no_encontrado
+Uma 304474
+Ruby 435351
+2247
+jugador_no_encontrado
+2248
+2248
+2250
+Emma 717759
+2252
+Max 376493
+Yara 999976
+jugador_no_encontrado
+2254
+Yara 999976
+jugador_no_encontrado
+Hugo 936832
+Yara 999976
+Uma 535434
+Yara 999976
+jugador_no_encontrado
+Wendy 933323
+2261
+2261
+Yara 999976
+2261
+Henry 91879
+Yara 999976
+Yara 999976
+Yara 999976
+2261
+2263
+2265
+Tessa 222450
+jugador_no_encontrado
+2267
+Yara 999976
+jugador_no_encontrado
+2268
+2268
+jugador_no_encontrado
+Alex 305025
+Wendy 597868
+Hugo 192056
+Henry 91879
+2247
+1040
+Yara 999976
+Vera 414140
+2273
+Alice 507254
+227
+Clara 820704
+Yara 999976
+Tina 569111
+Yara 999976
+jugador_no_encontrado
+2274
+2274
+2275
+Uma 273169
+Zoe 603558
+jugador_no_encontrado
+2275
+2274
+Ben 299331
+Henry 924315
+398
+Yara 999976
+Yara 999976
+2275
+Yara 999976
+1573
+2278
+David 659962
+jugador_no_encontrado
+Yara 999976
+2283
+2283
+Grace 829543
+Hugo 192056
+Uma 925348
+2283
+jugador_no_encontrado
+2283
+854
+Jack 250580
+2286
+2290
+Yara 999976
+Kate 140666
+2291
+1312
+1291
+jugador_no_encontrado
+jugador_no_encontrado
+2296
+2297
+538
+Luna 279105
+jugador_no_encontrado
+2302
+Kate 425176
+Yara 999976
+Kate 542641
+Liam 859496
+Yara 999976
+2304
+Uma 937753
+Henry 115158
+Tina 616293
+1461
+Yara 999976
+Vera 419474
+Yuki 970572
+2314
+jugador_no_encontrado
+2318
+Yara 999976
+Yara 999976
+1930
+Zoe 724698
+Steve 940148
+220
+2322
+Wendy 325315
+2325
+Tessa 192025
+2326
+Yara 999976
+jugador_no_encontrado
+1831
+1015
+Yara 999976
+Yara 999976
+2331
+2332
+jugador_no_encontrado
+402
+Yara 999976
+1792
+2334
+2033
+57
+jugador_no_encontrado
+2335
+Vera 590939
+Nina 708626
+Yara 999976
+742
+Henry 800462
+238
+Olivia 817421
+Yara 999976
+2342
+Liam 677272
+Peter 790057
+Iris 733512
+2343
+Yara 999976
+2346
+1127
+2347
+Yara 999976
+1736
+2348
+2348
+jugador_no_encontrado
+2351
+Quinn 896570
+jugador_no_encontrado
+Henry 79653
+118
+Olivia 435612
+jugador_no_encontrado
+2355
+Max 497252
+2354
+Yara 999976
+Yara 999976
+Wendy 410526
+1851
+Vera 261192
+2364
+Yara 999976
+Yara 999976
+2366
+Yara 999976
+Jake 830355
+2372
+Tina 840687
+jugador_no_encontrado
+Tessa 356045
+2342
+Iris 961201
+Emma 225625
+Uma 925348
+jugador_no_encontrado
+1753
+Max 663929
+2104
+1112
+Yara 999976
+Ulrich 331440
+jugador_no_encontrado
+1225
+Yara 999976
+2383
+Will 811342
+Kate 849539
+Felix 378620
+Yara 999976
+1278
+2385
+2385
+Diana 802379
+Jack 904271
+2386
+Yara 999976
+Yara 999976
+jugador_no_encontrado
+2118
+Zoe 9747
+1844
+Ulrich 893055
+Yara 999976
+Charlie 58033
+jugador_no_encontrado
+Diana 331652
+Oscar 766624
+jugador_no_encontrado
+Peter 23555
+2217
+Iris 589661
+2397
+Mia 939072
+1832
+Yara 999976
+Yara 999976
+Zara 449185
+2402
+2403
+2408
+2408
+Iris 134692
+2409
+2410
+Yara 999976
+Ivy 612444
+2411
+Yara 999976
+2413
+1786
+633
+Quincy 686363
+Uma 589510
+Liam 997368
+Rosa 894954
+jugador_no_encontrado
+Yara 999976
+Felix 698594
+jugador_no_encontrado
+2418
+Yara 999976
+349
+jugador_no_encontrado
+1408
+Yara 999976
+2430
+2430
+Diana 190766
+Kate 984585
+Nina 609692
+Yara 999976
+Yara 999976
+1701
+Sam 314572
+2435
+539
+2437
+Hugo 23055
+Penny 124966
+2442
+2444
+Yara 999976
+2444
+2445
+2447
+741
+Jack 26074
+267
+72
+Alex 922733
+2448
+Yara 999976
+Yara 999976
+2448
+1424
+jugador_no_encontrado
+1836
+52
+Yara 999976
+Yara 999976
+Ben 514210
+Jack 232659
+Yara 999976
+2455
+2454
+Sam 548026
+Yara 999976
+2456
+Mia 716753
+2456
+2457
+560
+Yara 999976
+2458
+Diana 744079
+2458
+Grace 108175
+David 291481
+1182
+Henry 129209
+jugador_no_encontrado
+1945
+Mia 406583
+2470
+2470
+Yara 999976
+jugador_no_encontrado
+2470
+Yara 999976
+Yara 999976
+2471
+Yara 999976
+2471
+jugador_no_encontrado
+2423
+Vera 483256
+Yara 999976
+2473
+2473
+Gina 77076
+Yara 999976
+Tina 298840
+Alex 696696
+Ruby 901970
+Yara 999976
+Yara 999976
+Zara 940232
+jugador_no_encontrado
+Gina 370308
+2480
+Yara 999976
+2481
+1263
+10
+Zoe 91751
+2487
+Nina 950525
+2489
+2489
+jugador_no_encontrado
+Xavier 116395
+jugador_no_encontrado
+jugador_no_encontrado
+351
+2494
+Penny 124966
+Uma 560278
+jugador_no_encontrado
+Yara 999976
+2497
+2500
+2501
+37
+Bob 777200
+2503
+Penny 118405
+1213
+Grace 693353
+Hugo 960158
+827
+Yara 999976
+2510
+jugador_no_encontrado
+2513
+2513
+Luna 153316
+Uma 304474
+Yara 999976
+Iris 799822
+Iris 939059
+2513
+Peter 754773
+Clara 234260
+2519
+Yara 999976
+Alex 623785
+2522
+Kate 156954
+Jake 767360
+Yara 999976
+1349
+Uma 937753
+2530
+2531
+jugador_no_encontrado
+2534
+2534
+Quincy 67598
+2537
+Yara 425933
+2539
+jugador_no_encontrado
+Vera 239531
+Yara 999976
+Yara 999976
+Xavier 971851
+2540
+2047
+2541
+Rosa 675073
+jugador_no_encontrado
+Yara 999976
+Yara 238532
+Alice 77408
+Yara 999976
+2542
+1740
+2546
+Yara 999976
+2547
+Ivy 118068
+jugador_no_encontrado
+Grace 57880
+Ruby 190783
+Gina 50614
+2546
+2539
+2546
+Alex 397896
+Victor 616891
+Luna 637856
+Ruby 364388
+Sam 267471
+Quinn 323913
+jugador_no_encontrado
+Iris 669680
+Yara 999976
+Uma 182829
+Xara 638812
+Yuki 780791
+2557
+Alice 618221
+Tessa 109995
+Yara 999976
+Max 607932
+2565
+jugador_no_encontrado
+Yara 999976
+Yara 999976
+Charlie 33937
+2572
+1813
+Yara 590235
+Yara 999976
+1261
+2580
+2580
+2582
+2583
+Yara 999976
+963
+2584
+Wendy 350920
+Yara 999976
+Yara 999976
+834
+jugador_no_encontrado
+90
+Yara 999976
+57
+Alex 166394
+Yara 999976
+Yara 999976
+2592
+Charlie 423419
+2594
+365
+Henry 924315
+jugador_no_encontrado
+Henry 457512
+2602
+2602
+2603
+jugador_no_encontrado
+jugador_no_encontrado
+2610
+Yara 999976
+Yara 999976
+1605
+2615
+Felix 735488
+Max 469119
+2615
+jugador_no_encontrado
+2615
+Zara 546576
+2055
+Hugo 988933
+Yara 999976
+2622
+2399
+2540
+Yara 999976
+Xavier 41008
+David 565937
+jugador_no_encontrado
+2625
+2626
+jugador_no_encontrado
+Yara 999976
+Yara 999976
+2630
+121
+2632
+Yara 999976
+2632
+Olivia 706298
+1411
+Grace 829543
+2635
+Yara 999976
+Rosa 408601
+2638
+2639
+2611
+Yuki 663249
+jugador_no_encontrado
+2640
+2144
+Yara 999976
+Noah 294766
+Gina 532360
+2642
+Alex 611665
+2643
+2643
+Emma 712231
+Jake 967580
+2646
+2648
+872
+Yara 999976
+Yara 999976
+Peter 909599
+2652
+2654
+2654
+1627
+Luna 462747
+2656
+jugador_no_encontrado
+2656
+2617
+Victor 506329
+2657
+Diana 467505
+Yara 999976
+jugador_no_encontrado
+jugador_no_encontrado
+2664
+2663
+267
+Yara 999976
+Steve 432424
+2064
+2665
+Yara 999976
+2665
+jugador_no_encontrado
+jugador_no_encontrado
+2666
+Nina 540428
+1538
+963
+2189
+jugador_no_encontrado
+jugador_no_encontrado
+2670
+2671
+Yara 412405
+2674
+Iris 920335
+2677
+2677
+2678
+Quincy 653241
+2681
+Xara 21791
+Yara 999976
+jugador_no_encontrado
+jugador_no_encontrado
+jugador_no_encontrado
+Peter 515229
+Yara 999976
+2687
+Charlie 310009
+773
+2689
+jugador_no_encontrado
+2690
+2690
+340
+Yara 999976
+2691
+2179
+2691
+266
+Yara 999976
+Rosa 750682
+Iris 448480
+Olivia 422286
+jugador_no_encontrado
+Ruby 69241
+2698
+Iris 186179
+Yara 999976
+jugador_no_encontrado
+Charlie 167894
+2699
+2100
+jugador_no_encontrado
+2701
+Henry 703848
+Jake 787231
+2703
+2704
+2704
+Charlie 260916
+Yara 999976
+2708
+Yara 999976
+Ben 343401
+2710
+Yara 999976
+jugador_no_encontrado
+2712
+Ulrich 447353
+Victor 512188
+Victor 236471
+975
+2713
+Jack 135918
+Alice 507254
+Yara 999976
+1880
+jugador_no_encontrado
+2721
+242
+Xara 540109
+2723
+2723
+jugador_no_encontrado
+2727
+Rosa 580471
+899
+Yara 999976
+jugador_no_encontrado
+jugador_no_encontrado
+2731
+2732
+2732
+2732
+2732
+Vera 966017
+jugador_no_encontrado
+194
+Max 671876
+Yara 999976
+2733
+Yara 999976
+2734
+Yara 743842
+Grace 53707
+Tina 138152
+Yara 999976
+2736
+2540
+Yara 999976
+Yara 999976
+2739
+Yara 999976
+2744
+2744
+2746
+jugador_no_encontrado
+2343
+Emma 734111
+Yara 999976
+Tessa 356045
+2755
+2757
+2757
+jugador_no_encontrado
+2760
+Yara 999976
+jugador_no_encontrado
+Zara 772954
+Yara 999976
+Diana 817129
+2762
+Yara 999976
+jugador_no_encontrado
+2762
+Olivia 55678
+Liam 966083
+Grace 869839
+2764
+Yara 999976
+Clara 315537
+jugador_no_encontrado
+Clara 627090
+Ulrich 130145
+Charlie 463303
+Tessa 652359
+2765
+2765
+jugador_no_encontrado
+Yara 999976
+1953
+Mia 811417
+Jack 135918
+Rosa 667014
+Grace 331141
+jugador_no_encontrado
+Iris 343254
+1485
+Luna 363241
+2769
+jugador_no_encontrado
+2770
+2770
+Olivia 341866
+2769
+Yara 999976
+jugador_no_encontrado
+Luna 318271
+jugador_no_encontrado
+2777
+Yara 999976
+2180
+2779
+Sam 909168
+Gina 533201
+2180
+Yara 999976
+jugador_no_encontrado
+2781
+Wendy 533881
+296
+David 697621
+674
+jugador_no_encontrado
+Yara 999976
+Henry 793895
+1430
+2795
+Yara 999976
+jugador_no_encontrado
+Charlie 854728
+Ben 293500
+1706
+2799
+2800
+2488
+Yara 999976
+Yara 999976
+Uma 641265
+Ivy 701811
+443
+Oscar 133513
+Vera 46879
+Charlie 23288
+Jack 290396
+2802
+jugador_no_encontrado
+Zara 746629
+Xavier 728608
+Bob 225170
+Gina 629001
+2805
+1145
+Max 882824
+Yuki 546086
+2807
+jugador_no_encontrado
+Ulrich 354168
+jugador_no_encontrado
+Iris 343254
+Yara 999976
+Alice 386204
+2281
+2809
+jugador_no_encontrado
+Yara 999976
+2810
+2810
+Yara 999976
+Grace 167187
+Ivy 442684
+Yara 999976
+2810
+2139
+2812
+Luna 757287
+2813
+Henry 703848
+Sam 900908
+1751
+jugador_no_encontrado
+Grace 467390
+Sam 931090
+Yara 999976
+2817
+Yara 35408
+171
+Eve 853415
+2818
+Alex 696696
+Mia 293890
+Emma 777890
+jugador_no_encontrado
+2823
+2823
+Yara 999976
+Diana 314359
+2823
+jugador_no_encontrado
+Rosa 263811
+Steve 382474
+2825
+2826
+2827
+Yara 999976
+Luna 483214
+2486
+Quinn 369649
+jugador_no_encontrado
+jugador_no_encontrado
+Clara 711512
+jugador_no_encontrado
+1991
+387
+671
+Yuki 696850
+Yara 229957
+2833
+Kate 791786
+Frank 813384
+David 434984
+Yara 999976
+2837
+Ulrich 592479
+2840
+jugador_no_encontrado
+Henry 522036
+Wendy 659172
+jugador_no_encontrado
+Yara 999976
+Quincy 460574
+jugador_no_encontrado
+2846
+Diana 947791
+Tina 68907
+jugador_no_encontrado
+Yara 999976
+Yara 999976
+Victor 298385
+2850
+Yara 999976
+2851
+Yara 999976
+jugador_no_encontrado
+88
+Ivy 793331
+2851
+2850
+Yara 999976
+2854
+2854
+2856
+Gina 284081
+Yara 999976
+Xavier 867392
+Yara 999976
+Yara 999976
+2864
+Iris 521849
+2864
+Vera 950072
+Ben 579148
+Yara 999976
+Zara 73341
+Yara 999976
+Yara 999976
+2866
+2866
+2480
+2867
+Liam 67939
+Yara 999976
+Yara 999976
+2868
+Rosa 280192
+2877
+Yara 999976
+2877
+Yara 999976
+jugador_no_encontrado
+Yara 999976
+1959
+Steve 202556
+2881
+Yara 999976
+2883
+2883
+Yara 999976
+2456
+2884
+Kate 726450
+Ulrich 331440
+Yara 999976
+2887
+1177
+2889
+2889
+2890
+Hugo 135704
+1781
+Yuki 791512
+Max 660180
+Quinn 721911
+2892
+1565
+Jake 297384
+2894
+2894
+2894
+Yara 999976
+2894
+Yara 999976
+Mia 472843
+jugador_no_encontrado
+Will 361040
+Yara 999976
+Max 729545
+2906
+2908
+1733
+Charlie 578008
+2908
+jugador_no_encontrado
+2908
+Xavier 886917
+Alex 348186
+jugador_no_encontrado
+Tessa 700445
+Yara 999976
+2613
+2910
+2912
+Ivy 375821
+Diana 658855
+jugador_no_encontrado
+1577
+2914
+jugador_no_encontrado
+Yara 999976
+jugador_no_encontrado
+2443
+2920
+2920
+David 843385
+Yara 999976
+Diana 576783
+2921
+Ulrich 578796
+Yara 999976
+Emma 464018
+Wendy 728398
+1996
+2922
+Quinn 448320
+716
+Gina 190503
+Yara 999976
+2928
+2928
+2928
+Yara 999976
+jugador_no_encontrado
+Penny 118405
+Peter 44007
+2930
+2929
+Yara 999976
+Uma 986600
+jugador_no_encontrado
+jugador_no_encontrado
+2703
+Yara 999976
+jugador_no_encontrado
+Yara 999976
+Hugo 721724
+2362
+jugador_no_encontrado
+Alice 392011
+2746
+Peter 568868
+2933
+Emma 92522
+2934
+jugador_no_encontrado
+jugador_no_encontrado
+2935
+Xara 197277
+Mia 137325
+2934
+jugador_no_encontrado
+jugador_no_encontrado
+Kate 617984
+2938
+Alice 576919
+2939
+jugador_no_encontrado
+Tina 616293
+jugador_no_encontrado
+2943
+Yara 999976
+2943
+Yara 999976
+2943
+jugador_no_encontrado
+2945
+2949
+Yara 999976
+2928
+1111
+Yara 999976
+Yara 999976
+2953
+jugador_no_encontrado
+Ivy 854224
+2408
+2955
+Oscar 763895
+2959
+2960
+David 697621
+Wendy 470163
+Yara 999976
+2962
+2962
+Vera 674745
+1133
+2964
+2964
+Yara 999976
+Diana 728270
+Yara 999976
+2965
+2965
+jugador_no_encontrado
+2969
+Steve 16265
+jugador_no_encontrado
+2974
+Hugo 647194
+jugador_no_encontrado
+2975
+Charlie 296103
+2980
+Tessa 342605
+Yara 999976
+jugador_no_encontrado
+2983
+Zara 621067
+Yara 999976
+jugador_no_encontrado
+2985
+jugador_no_encontrado
+2986
+Yara 999976
+2344
+jugador_no_encontrado
+2988
+Penny 253292
+Felix 493099
+2989
+2989
+jugador_no_encontrado
+Yara 999976
+2990
+jugador_no_encontrado
+Tessa 139580
+Yara 999976
+Kate 348843
+2994
+jugador_no_encontrado
+Diana 69861
+2997
+1865
+Yara 999976
+Kate 366261
+jugador_no_encontrado
+Uma 182829
+Yara 999976
+3001
+2355
+Kate 696212
+jugador_no_encontrado
+857
+jugador_no_encontrado
+3001
+3001
+Jake 875127
+Olivia 465013
+Yara 999976
+jugador_no_encontrado
+Mia 573797
+3002
+3003
+3005
+jugador_no_encontrado
+Nina 477022
+387
+jugador_no_encontrado
+jugador_no_encontrado
+Zoe 802707
+3012
+3013
+Grace 315947
+3011
+3013
+2409
+Ivy 543502
+Steve 644709
+Ulrich 976990
+Yara 999976
+jugador_no_encontrado
+3015
+jugador_no_encontrado
+jugador_no_encontrado
+3016
+1090
+Yuki 824267
+Felix 205295
+jugador_no_encontrado
+Henry 232960
+3018
+1547
+Yara 999976
+3021
+Ben 514574
+Frank 848376
+Max 268595
+2379
+jugador_no_encontrado
+3030
+jugador_no_encontrado
+Yara 999976
+Liam 891453
+3033
+3034
+Uma 763668
+3034
+3035
+Wendy 295686
+Olivia 808960
+Yara 999976
+141
+3040
+482
+2055
+3016
+5
+Kate 220531
+Rosa 738973
+272
+2429
+Diana 447480
+jugador_no_encontrado
+3044
+Yara 999976
+Steve 47367
+Steve 670089
+3045
+2345
+Eve 94675
+jugador_no_encontrado
+3046
+3046
+Yara 999976
+Yara 999976
+3047
+Yara 999976
+Yara 999976
+538
+3048
+3048
+Yara 999976
+Luna 32061
+jugador_no_encontrado
+Charlie 886419
+Alice 618221
+jugador_no_encontrado
+315
+3054
+2873
+3058
+3058
+3058
+3058
+Emma 367230
+Yara 999976
+3058
+Yara 999976
+Ben 514210
+3060
+3060
+Luna 284697
+1987
+3065
+Yara 999976
+3065
+3066
+1946
+3071
+2665
+Zoe 655759
+3070
+Yara 999976
+Yara 999976
+jugador_no_encontrado
+Yara 999976
+Sam 614492
+Yara 999976
+Yara 999976
+3079
+539
+Xavier 348837
+3082
+3083
+2192
+Yara 999976
+3084
+jugador_no_encontrado
+Liam 843114
+Quinn 250872
+Yara 999976
+3083
+3085
+Yara 999976
+Liam 224262
+Xara 758634
+Ivy 532742
+140
+3088
+Ivy 548352
+3093
+Peter 81588
+1897
+3095
+3096
+3096
+jugador_no_encontrado
+Felix 156603
+3095
+3096
+3101
+Xara 27102
+Mia 339728
+813
+2746
+jugador_no_encontrado
+3111
+3111
+2198
+3111
+Yara 999976
+Yara 999976
+3113
+Alex 296619
+Yara 999976
+jugador_no_encontrado
+3121
+3119
+1231
+3124
+3125
+Yara 999976
+3125
+3124
+Ruby 601504
+3129
+Kate 849539
+3132
+Yara 999976
+Quincy 100530
+Hugo 107717
+Grace 738273
+Yara 999976
+2216
+jugador_no_encontrado
+Yara 999976
+2462
+David 669994
+Mia 424807
+Yara 999976
+jugador_no_encontrado
+jugador_no_encontrado
+Mia 51810
+Yara 999976
+3141
+Uma 945268
+jugador_no_encontrado
+Yara 999976
+jugador_no_encontrado
+Tessa 527530
+Yara 999976
+Yara 999976
+Steve 940148
+jugador_no_encontrado
+394
+3151
+3151
+Yara 341851
+jugador_no_encontrado
+3156
+3157
+3158
+jugador_no_encontrado
+Felix 156603
+3161
+Zara 661453
+3162
+Xavier 864196
+2037
+3162
+3162
+3163
+Oscar 905317
+Yara 999976
+Yara 999976
+jugador_no_encontrado
+3168
+Uma 560278
+Oscar 915370
+Luna 422004
+3173
+3171
+3173
+3174
+3174
+3175
+1121
+1155
+Sam 544302
+3175
+Eve 706940
+Ben 327778
+Yara 999976
+3176
+jugador_no_encontrado
+Yara 999976
+1121
+Steve 302259
+Yara 999976
+jugador_no_encontrado
+Victor 702335
+529
+jugador_no_encontrado
+Zara 931562
+3181
+David 234618
+3182
+2362
+3183
+3183
+3182
+3184
+3186
+Sam 773300
+Victor 395429
+Ulrich 446806
+Henry 478929
+jugador_no_encontrado
+3191
+Henry 157044
+3192
+3196
+1644
+Xavier 636294
+3195
+692
+Luna 167651
+Jack 253703
+3203
+jugador_no_encontrado
+3203
+2587
+Xavier 558996
+2567
+Bob 781010
+Yara 999976
+jugador_no_encontrado
+Victor 602512
+Yara 999976
+3209
+3210
+3209
+Charlie 184280
+Yara 999976
+3217
+3217
+Yara 999976
+Zara 207836
+Kate 765624
+3123
+Yara 999976
+3223
+3223
+3225
+jugador_no_encontrado
+jugador_no_encontrado
+Oscar 897158
+Yara 999976
+Yara 999976
+Tessa 809182
+Liam 219309
+3231
+jugador_no_encontrado
+Xara 204803
+Diana 69861
+jugador_no_encontrado
+3231
+Yara 999976
+Yara 999976
+3231
+jugador_no_encontrado
+Yara 999976
+Yara 999976
+jugador_no_encontrado
+Mia 119734
+Yara 523884
+2965
+David 875612
+1032
+jugador_no_encontrado
+jugador_no_encontrado
+3239
+3242
+3243
+Yara 999976
+3242
+3244
+3245
+jugador_no_encontrado
+3245
+190
+3246
+2908
+Penny 634686
+Uma 937753
+jugador_no_encontrado
+3248
+Zoe 905234
+3253
+Nina 827360
+3253
+Yara 999976
+Xavier 287950
+3252
+Xara 236646
+Eve 94675
+Sam 655700
+jugador_no_encontrado
+3260
+Quincy 620892
+Yuki 165798
+Steve 222703
+Zoe 302167
+Hugo 575347
+3264
+Steve 563174
+3266
+3266
+Yara 999976
+jugador_no_encontrado
+Max 999064
+3268
+jugador_no_encontrado
+3268
+3270
+Ruby 248820
+Yara 999976
+Steve 47367
+3276
+665
+3277
+560
+Zara 976578
+3280
+Alex 754197
+Yara 999976
+Victor 547847
+3282
+Xavier 76104
+3286
+3286
+3286
+Steve 644709
+3290
+Zara 348957
+3293
+Tessa 139580
+Grace 108175
+2567
+Oscar 975671
+Olivia 341866
+1390
+3295
+Iris 961201
+3295
+jugador_no_encontrado
+Diana 210828
+3296
+jugador_no_encontrado
+Yara 999976
+jugador_no_encontrado
+Yara 999976
+Noah 929862
+Yara 999976
+349
+3302
+Yara 999976
+3298
+3303
+Yara 379001
+Sam 462399
+1270
+jugador_no_encontrado
+Yara 999976
+Penny 588752
+jugador_no_encontrado
+3309
+Yara 999976
+Penny 685419
+3314
+Henry 326197
+3316
+3316
+Liam 869298
+820
+Yara 999976
+3319
+Yuki 949593
+3319
+Yara 999976
+3314
+Eve 760969
+3322
+2995
+Yara 999976
+3101
+3331
+Yara 999976
+Yara 999976
+3327
+3331
+Xara 46598
+jugador_no_encontrado
+3330
+3333
+3336
+Oscar 190555
+jugador_no_encontrado
+jugador_no_encontrado
+Ulrich 277219
+3337
+Charlie 33937
+3339
+jugador_no_encontrado
+3336
+Yara 999976
+3336
+3339
+Peter 948990
+1570
+Yara 999976
+jugador_no_encontrado
+3173
+Eve 444025
+Yara 999976
+3344
+Mia 176579
+3344
+1323
+Gina 825722
+jugador_no_encontrado
+Alice 554521
+Yara 999976
+3347
+Uma 182829
+Yara 999976
+3347
+3343
+Yara 999976
+850
+Clara 461328
+3351
+3352
+3347
+2714
+jugador_no_encontrado
+3352
+jugador_no_encontrado
+Yara 999976
+Rosa 49052
+Yara 999976
+jugador_no_encontrado
+3356
+784
+jugador_no_encontrado
+2993
+1549
+3358
+Ben 171110
+3359
+3356
+3356
+1159
+3361
+Yara 999976
+Yara 999976
+Yara 999976
+Hugo 36578
+2886
+1623
+Yara 999976
+Yara 999976
+Yara 999976
+jugador_no_encontrado
+1425
+jugador_no_encontrado
+73
+3372
+Yara 999976
+jugador_no_encontrado
+3375
+jugador_no_encontrado
+3376
+jugador_no_encontrado
+3374
+3377
+3378
+1177
+Uma 367828
+Yara 999976
+jugador_no_encontrado
+Yara 999976
+293
+3386
+Zara 677665
+3386
+Iris 752292
+333
+jugador_no_encontrado
+Quincy 97121
+3388
+3389
+3389
+3389
+Yara 999976
+Yara 999976
+Xara 204803
+Yara 999976
+Grace 228845
+jugador_no_encontrado
+Xavier 558996
+jugador_no_encontrado
+jugador_no_encontrado
+Alice 935509
+Alice 695530
+Wendy 533881
+2127
+jugador_no_encontrado
+2600
+jugador_no_encontrado
+3396
+3399
+jugador_no_encontrado
+jugador_no_encontrado
+jugador_no_encontrado
+1172
+3398
+Gina 100096
+3398
+3405
+Xara 353700
+3406
+Peter 936866
+Yara 999976
+Yara 999976
+Steve 528443
+393
+Xara 377225
+3406
+3411
+Yara 999976
+Yara 999976
+Emma 243669
+Yara 999976
+Yara 999976
+2162
+Yara 999976
+jugador_no_encontrado
+Yara 999976
+2626
+3418
+3417
+3420
+3423
+Xara 638812
+Oscar 677233
+771
+Zara 15319
+Jack 965939
+jugador_no_encontrado
+Grace 450782
+Liam 859496
+195
+3423
+Yara 999976
+Sam 555965
+3425
+Yuki 267170
+jugador_no_encontrado
+Emma 39729
+Yara 999976
+Henry 484676
+3426
+3429
+Yara 999976
+3430
+jugador_no_encontrado
+Yara 999976
+1495
+3438
+Hugo 377068
+jugador_no_encontrado
+Yara 999976
+2766
+Peter 140465
+Yara 999976
+3451
+3447
+3446
+2716
+3456
+3458
+3049
+Rosa 295500
+3461
+Noah 70553
+3461
+Yara 999976
+3463
+Yara 999976
+780
+1648
+Yuki 272697
+Yara 999976
+3466
+Liam 843114
+Yara 999976
+Grace 272099
+3473
+jugador_no_encontrado
+David 324981
+2838
+Yara 999976
+2889
+Yara 374448
+jugador_no_encontrado
+Yara 999976
+3477
+Zoe 233923
+Ivy 235896
+2410
+3476
+Vera 483256
+Quincy 448620
+712
+3482
+3124
+Sam 701637
+Yara 179813
+3484
+Yara 999976
+2401
+3486
+664
+Luna 152749
+2757
+Vera 209880
+Yara 999976
+Sam 859308
+Felix 747151
+Yara 999976
+Zara 584066
+Xara 590645
+Mia 357344
+3493
+Yara 999976
+3495
+3493
+3496
+Olivia 995434
+Yara 999976
+jugador_no_encontrado
+3500
+Mia 51810
+Steve 230978
+1811
+Alice 187708
+3505
+166
+jugador_no_encontrado
+Charlie 296103
+3509
+jugador_no_encontrado
+3510
+3511
+Frank 341316
+3509
+3519
+jugador_no_encontrado
+3524
+3519
+3526
+Yara 999976
+Yara 999976
+Yuki 836855
+jugador_no_encontrado
+Nina 67790
+Yara 999976
+3530
+3530
+Rosa 530323
+Yara 999976
+jugador_no_encontrado
+jugador_no_encontrado
+Yara 999976
+Yara 999976
+579
+Yara 530289
+Alice 640029
+3541
+Yara 999976
+Alex 700682
+Yara 999976
+Quincy 456653
+Yara 3629
+611
+Yara 999976
+jugador_no_encontrado
+Yara 999976
+Alice 386204
+Zoe 905234
+Ruby 154628
+jugador_no_encontrado
+3546
+3548
+3554
+Max 326007
+3554
+Eve 278352
+jugador_no_encontrado
+Vera 103524
+Yara 999976
+jugador_no_encontrado
+Rosa 280192
+Iris 9763
+3560
+jugador_no_encontrado
+Yara 999976
+3563
+3563
+Yara 999976
+jugador_no_encontrado
+Yara 999976
+3563
+1047
+Yara 999976
+3563
+Quincy 487338
+3564
+Rosa 60691
+Sam 53607
+3564
+Wendy 470163
+2234
+Yara 999976
+Clara 580558
+Steve 708331
+3566
+3569
+3569
+jugador_no_encontrado
+3569
+Victor 74617
+1613
+3570
+Yara 999976
+jugador_no_encontrado
+Yara 999976
+Yara 999976
+2052
+Quinn 548075
+Kate 617984
+3574
+Oscar 128511
+Penny 97486
+2266
+265
+3573
+Xavier 809907
+Peter 96003
+3574
+2740
+3580
+jugador_no_encontrado
+3581
+3581
+Yara 999976
+3575
+3576
+3581
+3581
+Yara 999976
+3583
+jugador_no_encontrado
+3580
+3584
+Yara 999976
+Kate 348843
+3587
+3588
+Yara 999976
+3231
+3591
+Quincy 45798
+jugador_no_encontrado
+3592
+Xara 195606
+Ivy 561060
+jugador_no_encontrado
+3597
+3597
+jugador_no_encontrado
+Yara 999976
+3599
+jugador_no_encontrado
+jugador_no_encontrado
+Yara 999976
+Quincy 126649
+3606
+Yara 999976
+3601
+Yara 999976
+3606
+3608
+Steve 851560
+jugador_no_encontrado
+Yara 999976
+Yara 999976
+Uma 945268
+Tina 484035
+Iris 348088
+Xara 943827
+Xara 892280
+Will 590042
+Yara 999976
+3616
+Yara 999976
+Yara 999976
+Henry 908632
+Victor 715210
+Jake 1415
+jugador_no_encontrado
+3621
+Yara 999976
+3621
+Penny 118405
+3390
+Yara 999976
+Frank 170694
+254
+Yara 999976
+Yara 999976
+Zara 294755
+Rosa 280192
+3632
+3627
+3633
+Yara 999976
+Yara 999976
+3634
+2484
+Zoe 545525
+Alice 640029
+2237
+Zara 221921
+1991
+Yara 999976
+2756
+Yara 999976
+jugador_no_encontrado
+Yara 3629
+Yara 999976
+3639
+Yara 999976
+jugador_no_encontrado
+jugador_no_encontrado
+Quincy 97121
+3640
+2845
+jugador_no_encontrado
+Alice 325320
+3641
+3641
+884
+Yara 999976
+Sam 977561
+Yara 999976
+Tina 477073
+3648
+Yara 999976
+167
+Clara 838348
+jugador_no_encontrado
+Yara 238532
+jugador_no_encontrado
+Vera 562127
+Nina 351487
+3662
+David 431301
+3658
+Yara 999976
+Eve 545589
+3670
+Yara 647270
+jugador_no_encontrado
+3670
+Frank 374789
+Peter 814489
+3671
+3673
+Yara 999976
+Yara 999976
+Zara 512959
+Yara 999976
+3674
+3673
+Clara 580558
+Clara 564564
+jugador_no_encontrado
+2430
+Will 240066
+Wendy 679985
+3568
+3677
+Xavier 667312
+Yara 999976
+Yara 999976
+3680
+Zara 486538
+3681
+Yara 999976
+Yara 999976
+Felix 493099
+445
+Yara 999976
+59
+Jake 51245
+Max 862482
+Ivy 763489
+3690
+Tessa 652359
+3692
+Yara 999976
+Yara 999976
+3693
+3694
+Hugo 563793
+3696
+2186
+jugador_no_encontrado
+Yara 999976
+2212
+3705
+Henry 403365
+Alex 758583
+Alice 173820
+2789
+3708
+2170
+3709
+Yara 999976
+Uma 741170
+3714
+3714
+3715
+Yara 999976
+Ivy 510088
+Uma 742529
+Vera 848283
+jugador_no_encontrado
+3721
+Bob 410971
+Grace 64188
+Emma 173591
+Jack 828311
+1937
+jugador_no_encontrado
+3725
+267
+1045
+Steve 989794
+Ben 386619
+jugador_no_encontrado
+3174
+Hugo 984258
+1921
+Frank 167472
+2146
+Yara 999976
+jugador_no_encontrado
+3726
+3727
+Yara 999976
+jugador_no_encontrado
+3729
+Alex 186688
+3729
+Charlie 77910
+Uma 535434
+2234
+3733
+Yara 999976
+Yara 999976
+3736
+Yara 999976
+892
+jugador_no_encontrado
+Liam 107340
+Yara 999976
+Ulrich 240229
+3744
+Nina 832983
+Yara 999976
+Victor 42228
+Hugo 821865
+Bob 853338
+jugador_no_encontrado
+Yara 999976
+1455
+jugador_no_encontrado
+3744
+3598
+Yara 999976
+jugador_no_encontrado
+jugador_no_encontrado
+jugador_no_encontrado
+Quincy 61333
+Emma 787621
+3752
+Yara 666864
+1029
+3745
+Uma 915839
+Vera 39754
+jugador_no_encontrado
+Rosa 807299
+Will 436162
+Liam 945056
+3759
+3759
+Yara 999976
+3760
+Uma 851307
+Yara 999976
+jugador_no_encontrado
+Yara 999976
+jugador_no_encontrado
+3762
+3506
+2131
+3769
+Ulrich 429284
+3769
+jugador_no_encontrado
+jugador_no_encontrado
+3770
+Yara 999976
+3765
+Yara 999976
+Alex 922733
+3775
+3775
+2610
+2367
+Yara 999976
+Luna 49483
+3777
+3777
+Vera 174378
+jugador_no_encontrado
+2572
+Yara 999976
+Yuki 897346
+jugador_no_encontrado
+jugador_no_encontrado
+3778
+Iris 16794
+Olivia 866148
+Rosa 37272
+3788
+Zara 875842
+Ben 827049
+jugador_no_encontrado
+3789
+3790
+3790
+3790
+Ben 230735
+Nina 73352
+1714
+3793
+Victor 218187
+3794
+Vera 239531
+3798
+3799
+3799
+Kate 617984
+3800
+Quincy 895427
+Uma 485133
+3802
+1068
+1606
+jugador_no_encontrado
+Noah 803623
+1715
+3812
+Yara 999976
+Rosa 370866
+1268
+Eve 982817
+jugador_no_encontrado
+1367
+jugador_no_encontrado
+Yara 999976
+jugador_no_encontrado
+Ivy 533235
+Hugo 647194
+3824
+3828
+3828
+1022
+3834
+Yara 999976
+Xara 911145
+Yara 999976
+Jack 779888
+jugador_no_encontrado
+3838
+Yara 999976
+3739
+Yara 999976
+Will 89270
+3840
+Xavier 282047
+3841
+Henry 180386
+jugador_no_encontrado
+jugador_no_encontrado
+Yara 999976
+Vera 7188
+3648
+447
+Ben 708049
+3837
+Alice 939446
+Oscar 883935
+Yara 999976
+3845
+3784
+3846
+3846
+2361
+3846
+Yara 999976
+jugador_no_encontrado
+3848
+jugador_no_encontrado
+3851
+jugador_no_encontrado
+3851
+Kate 434464
+1649
+Rosa 775479
+Sam 261749
+3759
+Yara 999976
+Vera 935367
+2691
+2581
+3861
+Yara 999976
+3861
+jugador_no_encontrado
+3863
+Henry 431205
+Yara 999976
+3864
+Henry 424503
+Yara 999976
+3865
+jugador_no_encontrado
+Charlie 821026
+Ben 67698
+1337
+3870
+Olivia 422286
+3867
+3872
+Mia 395063
+Yara 999976
+1241
+Vera 928304
+Felix 511799
+3879
+jugador_no_encontrado
+Yara 999976
+Yara 999976
+3882
+3882
+jugador_no_encontrado
+Gina 929478
+Yara 999976
+3882
+jugador_no_encontrado
+2088
+1065
+Penny 975528
+jugador_no_encontrado
+1128
+3884
+Mia 691449
+Oscar 557929
+jugador_no_encontrado
+1661
+Frank 374789
+Max 807600
+3882
+3889
+Yara 999976
+Oscar 214690
+Yara 999976
+545
+Henry 373417
+3893
+jugador_no_encontrado
+3893
+1263
+3893
+1424
+3887
+Kate 317231
+Yara 999976
+2067
+Bob 813423
+Yara 999976
+jugador_no_encontrado
+Sam 744295
+Yara 999976
+3900
+Yuki 54589
+Yara 999976
+Alex 186688
+Noah 487068
+778
+Wendy 437630
+Iris 414773
+3903
+Yara 999976
+1230
+Yara 999976
+3906
+Noah 933615
+Oscar 271989
+jugador_no_encontrado
+jugador_no_encontrado
+Jack 867040
+930
+3910
+Ivy 854224
+Yara 999976
+3916
+3917
+3917
+3917
+Olivia 701505
+jugador_no_encontrado
+3918
+3919
+3918
+Yara 999976
+jugador_no_encontrado
+Emma 535993
+3922
+Yara 999976
+Ben 343401
+3925
+Yara 999976
+Clara 649969
+814
+jugador_no_encontrado
+Yara 999976
+Ben 148833
+3933
+Ivy 251267
+Noah 504107
+Yara 999976
+272
+3934
+Ulrich 379227
+Ruby 272940
+3941
+Yara 999976
+1283
+Yara 999976
+Yara 999976
+Yara 999976
+280
+Alex 655822
+3949
+Felix 994674
+3950
+3946
+Yara 999976
+Yara 999976
+Yara 999976
+3950
+3497
+Emma 39729
+David 274984
+Quincy 840749
+3943
+Diana 638683
+Oscar 542868
+jugador_no_encontrado
+Ben 832050
+3956
+Peter 997344
+Liam 78145
+Noah 534742
+2393
+1289
+Gina 957496
+Wendy 679985
+jugador_no_encontrado
+3966
+Yara 999976
+3960
+jugador_no_encontrado
+Yara 999976
+Yara 999976
+Peter 169753
+Ruby 967124
+jugador_no_encontrado
+3969
+1384
+3966
+3975
+3976
+3976
+3980
+jugador_no_encontrado
+3981
+Yara 999976
+3982
+2541
+jugador_no_encontrado
+895
+Yuki 31139
+3980
+3983
+Hugo 412537
+Max 426092
+Felix 546608
+Max 927425
+Zoe 440809
+jugador_no_encontrado
+3995
+Yara 999976
+3996
+jugador_no_encontrado
+jugador_no_encontrado
+3998
+Yara 355272
+Olivia 866148
+4000
+Xara 35320
+4002
+Yara 999976
+4002
+Ivy 67045
+Yara 879340
+4003
+Charlie 83144
+4003
+Yara 999976
+4007
+1938
+Yara 999976
+1040
+1113
+Will 251988
+4008
+4005
+Yara 999976
+4009
+4003
+Will 121876
+Jack 512606
+4006
+Yara 999976
+4010
+1341
+Sam 435713
+3867
+4012
+jugador_no_encontrado
+Charlie 920641
+Frank 736817
+Yara 653231
+3449
+Yara 999976
+Yara 999976
+jugador_no_encontrado
+Yara 999976
+4017
+Yara 999976
+Yara 999976
+1945
+4023
+4024
+Yara 999976
+jugador_no_encontrado
+4024
+jugador_no_encontrado
+4019
+Yuki 742458
+4026
+Yara 999976
+4027
+Yara 999976
+4031
+Tessa 103641
+Yara 743842
+Yara 999976
+Mia 623132
+4035
+Jack 748310
+1056
+Jack 235470
+Yara 999976
+4040
+jugador_no_encontrado
+4040
+Yuki 152316
+Yara 999976
+4041
+Henry 138980
+4042
+1703
+Max 544813
+308
+Victor 558030
+Emma 212279
+4049
+4047
+4048
+4052
+Yara 999976
+4053
+4047
+Yara 999976
+jugador_no_encontrado
+Steve 258444
+2615
+2508
+4057
+Tina 894655
+3602
+2155
+3737
+Hugo 821865
+Xara 482411
+Yara 700920
+jugador_no_encontrado
+3943
+Steve 302259
+Noah 834774
+4070
+Yara 999976
+4070
+Alex 663902
+268
+Henry 887049
+jugador_no_encontrado
+4072
+David 630845
+4073
+Diana 517100
+Ivy 676555
+Alice 384673
+jugador_no_encontrado
+Yara 999976
+Yara 999976
+4073
+Rosa 873784
+Henry 871930
+3878
+1323
+4085
+4086
+4086
+1476
+4085
+4089
+801
+4091
+3970
+jugador_no_encontrado
+Grace 872493
+4089
+Yara 999976
+4096
+Yara 999976
+Max 882824
+Bob 815032
+Alex 465950
+4097
+4098
+Wendy 384114
+jugador_no_encontrado
+Rosa 864616
+Diana 658459
+4094
+1801
+Eve 614323
