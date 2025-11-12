@@ -19,11 +19,14 @@ private:
     int B;
     int N;
 
-    bool esPrimo(int n) {
-        if (n < 2) return false;
-        if (n % 2 == 0) return n == 2;
-        for (int i = 3; 1LL*i*i <= n; i += 2)
-            if (n % i == 0) return false;
+    bool esPrimo(int n) { 
+        if (n <= 1) 
+            return false; 
+            for (int i = 2; i < n; i++) {
+                if (n % i == 0) {
+                    return false;
+                }
+            }
         return true;
     }
 
@@ -49,11 +52,10 @@ private:
     }
 
     int hash(string key) {
-        unsigned long long h = 0;
-        for (size_t i = 0; i < key.length(); i++)
-            h = h * 131 + (unsigned char)key[i];
-        // Comprimo a int
-        return (int)(h ^ (h >> 32));
+        int h = 0;
+        for (int i = 0; i < key.length(); i++)
+            h = 31 * h + int(key[i]);
+        return h;
     }
 
 public:
