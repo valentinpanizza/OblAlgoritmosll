@@ -2,6 +2,7 @@
 #include <string>
 #include <iostream>
 #include <limits>
+#include <climits>
 using namespace std;
 
 bool podemosPodar(int paso, int mejorPaso)
