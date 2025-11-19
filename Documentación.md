@@ -48,8 +48,7 @@
 
 **Explicación breve de la solución:**
 Se implementó backtracking con poda, utilizamos una matriz de booleanos "matrizB" que evita recorrer 2 veces la misma celda y de esta manera evita ciclos. 
-Para la poda realizamos 2 cosas: mediante la función de podemosPodar que descarta que requiera de mas pasos que el mejor encontrado, y además dentro de main asignando a  mejorSol = res,  lo que permite descartar recorridos que requieran más pasos que la mejor solución global.
-Se definen "deltas" para
+Para la poda realizamos 2 cosas: mediante la función de podemosPodar que descarta recorridos que requieras de mas pasos que el mejor encontrado, y además dentro de main asignando a mejorSol = res,  lo que permite descartar recorridos que requieran más pasos que la mejor solución global.
 Además se sigue la estructura tipica de backtracking, luego de verificar que el movimiento es válido,  realizamos el "sanguche" de aplicarMovimiento, la llamada recursiva a mat_opt y deshacerMovimiento. 
 Desde main, se realiza el backtracking para cada FC, seleccionando el que requiera de menor cantidad de pasos.
 
