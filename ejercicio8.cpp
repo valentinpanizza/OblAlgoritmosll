@@ -1,10 +1,9 @@
-// #include <cassert>
-// #include <string>
-// #include <iostream>
-// #include <limits>
+#include <cassert>
+#include <string>
+#include <iostream>
+#include <limits>
 
 using namespace std;
-
 
 int maxPuntos_rec(int* colores, int*** tab, int i, int f, int k){
     if(f < i) return 0;
@@ -34,10 +33,8 @@ int maxPuntos(int cantElementos, int* colores){
             }
         }
     }
-
     return maxPuntos_rec(colores, tab, 0, cantElementos - 1, 0);
 }
-
 
 int main()
 {
