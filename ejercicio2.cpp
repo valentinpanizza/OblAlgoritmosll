@@ -6,7 +6,7 @@
 using namespace std;
 
 struct NodoLista {
-    string path;
+    string path; //search //images
     string titulo;
     int tiempo;
     NodoLista* sig;
@@ -22,12 +22,13 @@ struct NodoPath {
     NodoPath(string _dominio, NodoLista* l) : dato(l), dominio(_dominio), activo(true), borrado(false) {}
 };
 
+//tabla secundaria.
 struct NodoHash {
     string dominio;
     int cant;
-    NodoLista* l;
+    NodoLista* l; //recibe nodoLista también. 
     bool activo; 
-    bool borrado;   
+    bool borrado;   //necesito estos bool para la busqueda para que no se corte por ejemplo.
     NodoHash() : dominio(""), cant(0), l(NULL), activo(false), borrado(false) {}
     NodoHash(string _dominio, NodoLista* _l) : dominio(_dominio), cant(0), l(_l), activo(true), borrado(false) {}
 };
@@ -35,7 +36,7 @@ struct NodoHash {
 class HashCerrado{
     private:
     // tabla de clave dom y valor lista de path
-    NodoHash* arr;
+    NodoHash* arr; //tabla principal. 
     int B;
     int N;
     // tabla de clave dom + path y valor nodo de datos
@@ -253,9 +254,9 @@ class HashCerrado{
     }
 
     void remove(string dominio, string path) {
-        int posDom = obtenerPos(dominio);
+        int posDom = obtenerPos(dominio); //pos en tabla principal.
         if (posDom == -1 || !arr[posDom].activo || arr[posDom].borrado) return;
-        int posPath = obtenerPosPath(dominio, path);
+        int posPath = obtenerPosPath(dominio, path); //la busco en la tabla secundaria.
         if (posPath == -1 || !arrPath[posPath].activo || arrPath[posPath].borrado ||
             arrPath[posPath].dato == NULL || arrPath[posPath].dato->path != path) {
             return;

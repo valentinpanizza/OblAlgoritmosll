@@ -1,0 +1,767 @@
+I
+50
+18 11
+C C M C C Z C P C C C
+C C C C C C C O C N R
+U X C J C C P C C C C
+Y L Y C C D B C F H H
+C R U G C C C C C C Y
+C C C Q C C C R C D C
+A R C C C C U S C Z C
+C C Z E X C S G C Q E
+Y C C C W C Y C D P M
+F P C R P C C C C C L
+B C X E C Z C F C F K
+K C C C C C C J Q K C
+E C O K C G I O S Z Y
+L B C A C C G V S C C
+S U C K C C G C D C M
+C L C F E D C C J C C
+C C E C C C C C S B C
+P C N V C C G D C C C
+14 18
+C X C C C C Z C C F C A C C W C C C
+C C C C C P C C C C N C C C B C C C
+C C S C Z C C C C C O K C C B T E C
+Q C C C C C C I H C C W C M C C A N
+A Y C C S J C D M T C C B X G L C C
+U E D D C C C C P C C C G U X C C A
+B Y C R C U A C C C O A C C C L W C
+D Q X C U C C C C C S H C C S C C A
+C N A T K A C C R A C C C C E C A C
+C V S C C K C C C C G G C T C Q K C
+C C M A C M C C C C C E V J C C A R
+B V C C C C C T F C C C C C C C C E
+C C Y L Z C C C C C L C F C Q A C A
+D U P C C C Q C Q P C O C C N U C C
+18 10
+C C C B C T C Z C C
+C C C C C C C C E C
+C C N C C T X G C C
+U D C B C C S E C U
+C F L C C C C Z R W
+C D F C C D P C M C
+C L X C C C C C C C
+V C G X M C C C C G
+C C Y S C C C K C K
+T M C C C V C U C C
+C C C H C T I C C C
+C C C S Y C R C D L
+J C F X C C C J C C
+F C X C E M C C E U
+C R P C C C C L C C
+C V C C C Y C Q C C
+M C C C U C C C U C
+B Z C C C C C P C H
+13 10
+C C C C C C C C C P
+C C X W J C D C C X
+C I F Z C W C X C C
+V C M H W K H C M P
+P M U J C F B C P C
+C C W R C C Y H C P
+C C C C A X C C N C
+C J C C Z C C V C Q
+E C C C K C C C O R
+C C X C U C P E O K
+H C R Z C C V C C E
+U C N R E C C C F C
+C P C M M D C C K V
+18 17
+C C C C C U V C C U C C C C X U Y
+S C C D C C C C C Y C P B C C Q C
+F Z C C C C C C J C C U C N C C W
+L C C C C C C C C C S B K R C C C
+D O C C M G Z C C C C F Q C X C C
+K C X H C C C C C C C J N X V C C
+V F L R C L C A S V C C C C C K Q
+V Q C C C N C C K C C C V H N C W
+C Y C T T C C C G C C C B E H C Y
+C C C S C C C L C C C C K C L C E
+L C B C P X B C O C C C C C C O G
+D G R Q C C C C C V V C D U C C W
+C V C C A C C C C S C C C L C L O
+W L C Y G Q Z C C C C C C B U C Z
+Z C C C H Z M H C C D C Z C C C N
+C D C C C Z R Q C C C C C C U O P
+S B C N C C C C Q C P C H W C C C
+C D C C R R C L C U C I O C Z C C
+11 17
+C L E C C C C C C C C C C C C C S
+C C C C C C C C C C C C C C K C C
+C C C G C C S T Z C C C C C C C C
+C C C C C C C C C H M C C C C C C
+C C C C E C C M C C C W C C C C C
+H C C C C C C C S C C C C C S C C
+C C C B C P C C H C C C W C C S C
+T C C C C C M C C C W C C C C W C
+H C C C C C C C C C C C C C C I C
+P C C C C C C C C C C R C C C C C
+C C C S C C R C O G C C C C Y C C
+11 14
+C C F C C C C C K C C X C F
+C C C C C C C C C D C C C C
+Q C C C C C C G C C K C C H
+C C I C C C C C C C S J V R
+T C C C C K C C C C O C C C
+C A C V C O S C C M R C J W
+C M C C N F C C C C C C C Q
+C C C X N C C N O R G C C C
+C C C X C C V S C S C C M C
+C C C C K C C C C F C R Y H
+C C C E C C C E J C C F C C
+17 11
+C R W C C C O A C R C
+C F C X C D X C C C C
+C C S R U C N G C B W
+C C C M P C T M F C C
+C C C L D K C C C C V
+C C C C C C H C C F T
+Q V C C C C C P C G H
+C C C C C Z C C C C C
+C B S C B C C X X C C
+Q C S C P G C K C A C
+Y X C T C C C C C C H
+L C C D F C F M C C S
+C B V C F C K C C C C
+C U C R V C H F V C A
+C C D C W C R L M C W
+T C B G C N J J X C Q
+C C C G C L C C Y I C
+11 14
+C C C C C C C C N K C C C C
+C C N R I G C C C C C C C C
+C C C C C C C C C G Y C C C
+C C Y C C C C T R Y C X C C
+C M C C C C J K C C C C C C
+C Z C C F C C Y L C C C C C
+C E U C H C C C M C C K C C
+P A C C C C C C C T C C O O
+M B C Q C N C C Q C O C X P
+C C Q C C C C C L C C C X H
+K C C X C C S K C K C S C C
+18 20
+C C C C C C C C C Z C C C C C C C C K C
+C C S C C C C C X C C H C H F C C C B C
+C C C C C S C C C C Y F X C C C C C C C
+C C C C C C C C C C C C C C C C C C C A
+C C C C S W A C C C C C C C C C C C C S
+C C C C C C M C C C C C X C C S C C C Y
+C C C C C C C L N F C C C O C E C L C C
+C C C C C C O Y X K T D C H C K C C C C
+C C C C C C C Z C C C C C C H C C R C C
+Y C C C C B C Y C C C C C M C D T C C C
+Z C T C C C P C C C C C C C Y C C M C C
+F C A Y C C C C C C C B C C C C K C C C
+C C F C C Y C C C C C C C C C C C C C C
+C C C C C F W C C C C C C R C U C C C C
+C C C C C C C C C C P C C C F D C C C H
+C O C C C C V C C C C C C C C C O C Y C
+C C C C C C G C C B C C C I C C C C C F
+C C C C H C C C N S K V C W C C C A J C
+11 11
+C C P C S C C C P C B
+C Y F V C C A C C Z C
+C C C C L X C C C C E
+C C C C C U Z F B C C
+E W Q R C C C C C C I
+C C Y C R C B C C E C
+C T C C C C Z F U C P
+C C C O A C D C C C C
+C C S C C S C T X C U
+Q H T G C K C M G C C
+Q H W P B C A V N C C
+12 12
+C C C C B C J R C N C C
+C C V C J C C C C C D V
+M C S C K Z C E C Q C D
+C C C C Z C U C C C N C
+M Z C C C C T V N C C C
+C G C G C C C U C C M T
+T C C Y C X C O M C C C
+C T Z Q C C C E Y C P W
+K C Q C G C C C C G L T
+C C C T K C C E C F C N
+C C F C C W C E C G C H
+X C C F F Q I C B K U S
+17 11
+C Y C C C C O C C Y H
+C C W C C C C C C C X
+C C C C C N C C C C C
+M B C C C I C C C K C
+C C E U C C C C C C C
+C C C P C C Q C C C C
+C C C Z C D W C M U C
+C C C C C C C K C Y Y
+C C K C C C C C C C C
+C C Y C H C C C P C C
+C C C C C C C C X C C
+C C L C F C C U C C C
+C C C C F C Z C C U C
+C A Q C C C C C C C C
+C C O K C C D C C C C
+C C C C C C C C O H T
+C C C C C C C C C V C
+13 15
+C A L Z C C C C C C C D C C C
+C C C C C C C C C C C I C C K
+C C C E C V C C O C K C C D C
+X C C C C E C F C C C Z C X C
+C C C N C C C C C C C C C Q C
+C C C C Z L C C T C A H Z C C
+C C C S C C U G C K C C Z C C
+C C C Q C X Q C C C C C M C C
+O H C C C C C F C C C C C C J
+C C C C C C Q C C C C C C C C
+C C W V C C C H U C C C C C E
+C C M W C C C C C C C C C B C
+Z V C S C C C C C C G C C C C
+10 10
+C C C H C E D Q H C
+C C C E S C T C C A
+O O C V U S C Z E D
+Y H C C C C C I U C
+A D C C A C C Q C J
+C T Z G C C C M C L
+M C P C C C E N T C
+C F C T C C S C Y M
+C C Q C C A C J C C
+Z A N E C C C C D A
+13 17
+C C V G C C C C V B C T C C C C C
+C C C C C C C C C C C C C W C C T
+T C D C C C E C C D C C Z O C C H
+Q J C C C K T T C C C C C C C C C
+L C C C C C E C C Z C C L C C B E
+X H C C C E C X C Y N C C C C G F
+Y C C C C C I U C C C C O C W C C
+C R C C C C N Q C C C A C C C C C
+C C F C C J C C C C C C J F C C U
+C C C G G C C C C C C C C C C C C
+C A C C C E C C C C C C C C C C C
+C C C B C C X C C C U C E F C C G
+C M C C C A C M G D C C C C C C C
+13 16
+C C C C C H C C C C C C L C C C
+C C C C C C C C R C C C C C C J
+C C P C C E R C C C J C C C C C
+L C C C C C C C C C C E C C C C
+C C C C C C C J C C C M C C C C
+S C C C C C C C C C Y F C C C C
+Y Z C V C C C C C B T G C C C C
+M C C C C C C C C C C C C C S C
+C C C C C C R D C C C C B O B C
+X C N C C C C C C H W C C C C T
+C C U C C C C C C C M N C K C C
+C C C D C C C C I C C C C D C W
+C T V C C C C C D C C L C C E C
+14 11
+C N E T V C M F C Z R
+C D V C C T C Q G E L
+C C B C C V B S W B C
+C C C C C C C G H C Y
+C N C C D U C C C C C
+R G C M H C K C N D C
+S T C F N S C C C C C
+C M C C C K C C F K C
+C C U X C F C C C C H
+J C C W C C C P C F C
+Q C C C C C C M H Q C
+C C N C C C C R C C P
+N C C T I D C Q C Y H
+M B N G O C T O C J C
+13 17
+C C C J D C Y C Q G C W C X X C H
+C C A C C C C C C C C C R O Z W B
+C C C U K L L E W O U C C M C C M
+C Y C C T C C C K C U C O C T M C
+C Z C C C K C C C C C D C C F C C
+U M Q C P C C O G C Z D C P C C C
+C V C C C C C C C C C I F H J S C
+C M E C C Q W C C C C C C R D C C
+H C S Q S J C E O T C C C Q Y K Q
+K G C C J F X B E C Z C C C Y C C
+S G C Y R K L C C J C N C A L C C
+C T F C V N C C U E A C C C C Z C
+C J C C J C C C C C O C Z Z E C C
+15 13
+C C C C C C C C C C C U C
+C C C C C C C C C C C P C
+X C C C C C C C C C C C C
+C C C C S U C C C C C C C
+C W C C C C C F C Z I C C
+C C U C H C C C Q C A V C
+C Y C O C C C C Q C C C C
+C C K C C C C C D C C F C
+C C C V C C U C C C R C C
+C C C C C C C S C C W C C
+C H C C C Z C C C C P C C
+C V C S X C P C P C F C D
+F J C C C C C N C C C C C
+C C C C W L C C C C C Q C
+C C C J C T C C C C C C C
+14 17
+C C C U C P C B C C C C P C C G D
+C D C C C C C D W E C C C H C Z C
+C C C C C C C C C C C C C I K C G
+E C F C G C F Z U C C D G C G C C
+C N C P L C Z C J L C E C U C C C
+C J C O D T C C C C C C Z C C C C
+C C C X N C C G C G C Z C C Q C K
+F N T C C U C M C D M C Z C C S C
+S C C C C E C C C C C C C C Z E C
+C R H C D H C J V Z C C C M Z Z O
+C C W V R W Q U C C J C R C C C C
+T C F D C R V G C C K C X C C C C
+C C C R C L C C T K F T C C C G X
+N D C C C N C F Q K C C Q C C C Y
+20 15
+C C C C C C C O C C B C C C S
+C C C F C C C M L C C C W C C
+C C C C C C L C C C C N M C C
+C C C R C C C C C C C C C C C
+C C C C C W S O C C C Y D C C
+F W C C U B L C V C C B C C C
+C C B I S R C C D V C C D C C
+C M C H C C C Y A C C C R Q C
+Z C C Q C C C C C C C C C C C
+C C C C C C C C Y C C C D C Z
+C C C X C J C H X C D H C C O
+C C F J D C C P C S C C C C C
+A C W P C X C C C C C R C J E
+C C C C C C C C C Q C C X C C
+C E C Q R C C U T C C C C C C
+C C C C Y C Q H V S C C C C C
+G V C J C C C C L C C C C L C
+C C U C C C V C C C C C W C A
+C M C M C W C C C C F A Q C S
+C K C C C U V X C E C C C C W
+18 13
+C C U C W C C C G K C Z C
+C C M R X D C A V K C N X
+C C A C C C R C D M R A O
+C C C C C C C C W E C Y C
+A C R C C C C R C C C C Z
+P C C C H J H C N C C C H
+C C C C C X X C C D W C C
+C C C C C C C C Z A C C U
+E C X H C C C C Q C C A D
+C C H H M Q C C C U C C R
+Z J C Y C C C C C C C G X
+L K C Z J V C C C C C I C
+G Z C X C Y C C Y G G B C
+C C W X C B R G C B C C C
+C T C S C C C C N H F C A
+S C E F C C W C U C C C C
+C C C C C S V F U X C U C
+V C X J M U C G C C C M C
+12 17
+C C C C C C C Y U C W C C C X C C
+C C C X W C C P R H C C C C X E C
+C C C C C A C P C C C C D C C C J
+C I R T C Q C N Y O L C V C C C C
+C L P L D C A C C R L C C C C C V
+C C C C K C G E C R G C C C C V C
+C C C C C C C N C C C X C C C C H
+C C S F C C J N E K C U C C C R C
+C C C C J C Y C O C C C C M O M C
+C C C G C C C L V C Y C C C C C C
+C S C N C V C O C C C P E K K N C
+C D M C Q N Q C C C C W C K C C U
+16 19
+C C B G X C C C Z P R C C C Q C C T Q
+C C C C C C C C E C C Q K C N C C C C
+N C C C C C C C C C C C C G C Z F C C
+Y C C C C K C C K R P C C N C R C C C
+J C C C C C C C P C C C X H P Y C C C
+L C C C C C C C T U C C C M W C C R Z
+K C L C C S A C C C C C C C S C B C C
+R C C Z C C C C C I F C C C C C C C C
+G P C C W C C C E O C C Z C A Q E O C
+V C C C S C G C C C C C T C C M C C A
+C A C A C C C C G C C C C C A C C C C
+M C C C C K C C C C C P Z O C C C C F
+C C C C B B C A M K G C C C C C C C C
+C C H E C C X C G V C C C C C C C C C
+C C C C Q C C C B Z C A T C N C C C S
+C C K N C C C C O C C C C W A C C Z C
+10 17
+C C C R O R C M C C C L B C C C C
+C O C C C E C R C C C C C C K C C
+C C C C C C C C C C C H F D C E H
+C C S C C C Z C C Z L Y C C B C C
+C C C C C C C C C J C C Q P C C C
+C Q C C Q C B C C C C C C C C C I
+C X C L J C C N C X V C C N C C C
+C V W C C Z U Y C C C G G C K C C
+C C B C C C C C A C C J C C C C C
+A C C C C C C C C C C X D N C S C
+20 20
+C V C C C C C C C C C C C C C C C C C M
+C C C C C C C C C C C C C C C C C C C C
+C C N X C A M C C C A C E C C P R C J D
+C C G C P G C X Z C C C C C C C C C C C
+C C G C C C C C C C C Z D C C C C C C C
+C C C C C C B O C C D C C C C C M C P C
+C C C C C C C K Z C G C C C C C C B C U
+C N L C X C C Z C C C C K C C C C C K C
+C P C C C I C C C C C C C C A C C C C D
+R C C C C C C W E C C U Q C C C C C H S
+C T C C X C C C C E C R C C O C C C C C
+C C K C C C C C C C F E C C C S C C C E
+D C T C C X C C C C C C C C C Q R C C C
+C C C L C G C C C T C C C C E C C C C C
+C C C N C C C C X P C B C D C C T C C C
+D P C C Z C C C C L C C C C C C C C C C
+V C C L J C W D S C B J C C C X C C C C
+C C C J C V C C C C C F C N C O C V C C
+X C C C Z C C X C C C C C C C C C C C C
+E C C C C A Q C C C C C R C C C C C C C
+10 12
+C C C C C C W C C C C C
+D C C C C C C C C I C C
+C C C C C C Y C C C H K
+C T C C C E J C C C M C
+C C C C C B C C M C C S
+C C C C C C C C C C C C
+C R E O C C C C C C C J
+C C C N C C C C C D C C
+B C C C C C U C A D C C
+C C C C O C C C C C U W
+12 19
+C C H C N C L C C Y C C C C C C C C C
+C C C C L C C C C C C Z C C C J C C C
+C C D O C M C C C C C C C C C C C C C
+C C C C C C C C C C I C X B C N C H C
+C X C E C C C C C M C C W C W L B C C
+C C C C C C C O C C C C H C C C C C C
+C C C C V C J C C P C C C C A C B Z C
+C C W C C C O C C C C C F S C Q C C P
+C R C C Y C C J W C C C C C C C U T S
+C C B L C D C S C C C C C C P H E C B
+C J C W C X C C C C T H C C X R N C P
+W C C C C C C C C C C C C C C B C C C
+19 20
+C C G C R C D R K D C C C C F C O N B U
+C D C A J C C C C C J C E R A X C C W C
+C C C C U C H C C L C J C C C C D X V C
+U C C C C C C C C I C O G Q T S Q C S G
+P G A C C N A V C F J C C X N C C F C L
+C C C C C A C O C G C C P P N C C A D C
+D C Y M T U A C C H P D O Y V X C C Z P
+X U C C D U N V C C U K F M O M C V C C
+R C X C U Q C J B A A X T C C O C C C C
+C Z J G C C J C R Z C V B C N C T Y M N
+C V L C C C M C C C B V P C C S W C T N
+C C C C C C C F T K R C C Y S N C C N C
+C C C C E X O C C C Q R R R N C P C H T
+C C M C K P O M Y W T J U D C C V V C B
+C E Q C Z C W B E T Y C J C C C K C C C
+N O Q A B M C C X C C C M C C C U C F C
+L F C B Z L D C B R C P Q S L Z C C C C
+C C C C C C R R Z C U J J W C C E C B P
+C F C C C C X L C C X O V R C Y A K K H
+19 13
+C C C C S C Z S F C C A E
+C C C J C A A C C C E E C
+B C C U K C M C F F D H C
+C C C C C I B C C C T G X
+C C C C U C C U Z C E Q C
+C Y S Q C Q C C P G H Q D
+C C C C C U C C K Y M C U
+F V C C C H K C C C C C C
+C E C N C A S N F F A X U
+C L C M W W C R F L C O O
+U C O K C C C K F A X C D
+C N L Y C C G C C N M C C
+C J C J C S H L W C C J P
+F C C M X J Q W C L A C B
+B O C M A C L O C T C C C
+C C A X C C C C C Y C H E
+C C C C C C T R C C H C F
+C C O C C Q C C C C H C C
+Q U C C C M X N C Y G T U
+16 20
+C C C C C C C H C C P C A C F Q N D C C
+C C P Q C V C C U J C C G C B A L C C C
+C C C C C D C C Q E P C C J C M T K C Q
+C C C C J C P H B C H F C C L C T C Q K
+C H C C C B C E C G H K C O F M N Z L Z
+C L C C C X F C D P O F C C Q Q L Y C C
+L Q U C C C C G C C L J H C C C O E C C
+C C C C O N K L C C K B C X F M Z C C P
+O T H C N C Q P C C C C Z C J Q C C X R
+L C C C C C C G C E C C C C C C U C S C
+C C H C C L C C C C C D T W C N T G C C
+D C C C R E C D C C L C Y C D C O C C E
+E C C C C O C C R F X C C Q C Z K C D Y
+A C H I X X G C S C C C C N C C C C M Z
+X W D V M C P X A C L V O C N C Y C B C
+S C C C U W O C V C V N C F D W U A R M
+20 15
+C C K C C C K H C C C C C C Z
+C C C C C C U C C C C C C C C
+C H W U C C C C C C C C R S C
+C C T V Y C O C D C C V C Z C
+A C C C A C W C O C C C C C C
+C C C C C C C C C M C C R C S
+C C R C C C C C C C C C C C C
+C F C W C C C C A C C C C C C
+J C R A C C C B C R A C C C C
+C Y C B C C C C C C C O C C D
+C M M L B C C C C C C V W C C
+C C C C C I C Q S C C C V C C
+V C C C C C P N Q Y C C C C C
+C C C C T C C C W F C C C C C
+G K M C C C U C G C C T C C C
+C Y C C K D C C C K C G C C H
+C C F C C C K C C C C C S Q C
+C C V C C C C W C C C C H J C
+B C C U A C C C Q B C C C P C
+C C C C C C C C P C C Z C G C
+15 14
+C C J M W C C C C C C C C C
+C C C C C C C C U C C C C C
+M C C C C C C P V A C C P C
+L C Y C G C C C C C C C C C
+C C C C C C C C C C C X F C
+C C C C K C C V C C A Z C C
+C C C C C C C Z C P L C C C
+C C C C F C C C C C C C C C
+Z C C C C C X C C C C C C C
+S E C C C C C C C C C C A C
+C C Y D M C C C C I C C C C
+C C C C C P C C C C C C C D
+C C T J M C C T C C C C C C
+C C C C R C C C C C C U W C
+Y C C C C S C C C C T C C C
+15 10
+C V C H O C C E C Q
+C C C C P C C C C V
+C C C C C Z C C C C
+C C C C C C C C I C
+C W C C C C O C J C
+C X C C C C C C T C
+C C C V Z H C C C C
+C T K C O C C C L C
+C P C C C C B C C A
+C E C C C O C C E C
+C W C M C C B C F C
+C Y N C N Z L C C G
+C C C C V C C C C C
+C R C C C C C C C T
+C C C C C C C C C B
+14 13
+C U C X A C C H C C C C Q
+C C C C C C C Q C C Q C C
+C C A C C H T C J M C C S
+V R C C C C C C C C I C E
+Q C Q C C C L C Y V C S V
+J C Z F M U S C C C Y O C
+C Y W Q C U A X C N C O F
+C C E P T C W M G C S F C
+C C C C G C S C Y C T C H
+C C C K C C C C J R L C E
+C C W C T Q C T C V R T M
+K C B Y C H P C X O C C Q
+C C K B C C C C H N M C C
+C G O O C C C B C C C C E
+10 12
+C C C U C C K C C Q C N
+C C C C B F C C C C J T
+W C C D W C C G V C B C
+C C C C C C C C C C C I
+O C D C C L U D D C C D
+C C P M C C J C Q C D G
+C M H H C C Y C C C C C
+C B C C C D W C C C N G
+V C Q C C A C R H C C C
+C J C C A E E X Q L P G
+12 17
+C C N W C C C C C C C C C C C M C
+C C A C C C C C C C R C C C C C J
+C C C H C C C Z C R C C C C N P C
+C C C C C C C C I C V C C F C C Z
+D R Q C C C C C U C C C C C C F C
+C C C C C E C C T C L C C K U C X
+C C C C C C C C E C C C U C C C Y
+C C C C C C D C C V U C C C C C C
+C C C C B C C C Q C D C C C Q C J
+C G C C P C C C C F C C C C C C C
+C C Q C C C C C C C C C C C C C C
+C C C C C C C C C C J C C R C C C
+11 14
+C C C C U C C C O R Q C C J
+C C C C C C C C O C C C C T
+C C C D C C C G Z C E C C Y
+C M C C H C C C Y X P C C C
+C C C C C C C C C C C C Z C
+C C C C C C C C C C C I F C
+C C S Y C C S C C C C C C C
+C C A C D B C C C C C C C C
+C C C C C C C C C C C V C C
+C Q C C B C C C J M C C Q C
+C C C X P C C C J C X C C C
+15 16
+C C C A C C V C A C C C H Q C C
+R C T C C C C C C J C C C C C C
+C C W N Q W Q C K C C C V C C C
+C C C C C C I C Z C C C C C C C
+Q Y C E S U W C C C C Y E C C F
+C C C C C B E C C C C C O C Y A
+C C A C T Q C T C C C C C C C C
+C R Z H W P M C C C O V M O C C
+L C C M C C C C L U C N C C M Q
+C B C C H P C C W C C C Q C C J
+R C C C C C C C C S C C C C O C
+M X C C C C C C C C C R C C C C
+F U C C C C A Z C C C N W C C C
+C C C Z F C C M C K C C O C C C
+C C M C C C C C C C P C C Q C C
+10 19
+C C C E C C C R C D C C C C C C C F A
+C C C C C F S P C C J C C A C C C C M
+C C C C C H Z C R P C C C C C C C C C
+C L C C C V C C C C C X C C C C C J C
+G F C C X J C C C C C C O C C C C C U
+C C C C C C C C C C C C C C C C C C I
+C C Y C C C H Z C C Q C C C C C C C C
+V C R C D C Z C C C J C C E C C C C C
+W U C C C C L C C C C C C T K Z G C X
+C C C R C C C A C C C C C C C N C L C
+13 16
+C N C C C C C C C C C J C C H C
+C C C W C H K C C C C O C C Q C
+C C C C C C C C C C I C X C C C
+H A C C C C C P C C C F D C G C
+C C R Z C C C C C C K D C C C C
+C C C Q N C C Z C C X V C C C C
+C C C C C C C C C C C X T C C C
+U C C B C C X C C C C C C Q C C
+R C C C L C C C C C C C D C Q O
+C C C E C O C L C V K C C C C Y
+C Q C C C C C C C C C C O U C C
+C C C C A C C K C C C O U H C C
+C C P S C C C C C C M O C C S C
+15 10
+C A V C Y P C B C C
+C C C C I M C S X F
+C C M V C F T C C C
+K B C C C Z J C C D
+W C C C M X C C E L
+S A C T T C C C M M
+C C G B Z K T C L C
+C O C C C R X U H V
+N A C P C L P C N C
+C F V C C A F C C J
+C O U C D V A B V C
+W D V T C C C C C C
+P O C C V C C R C Y
+E X C C C G A B B C
+N P M E C C C E C C
+19 16
+C C C C V C F F C C C C C C O C
+C C Y C C C C C J C C C A C C Y
+C C M T A H O K C C C C C S A C
+C C C S P R O C C C A C C C C C
+C I W C C P C C Z G C C Y C C U
+A C C A E L W A C C C C C C U A
+C M C C C W N T J K C C E C C W
+C B C C V C C Q W R D C C Y C Q
+X Y C C C Y C C C C C C C C C C
+D C C C T D W H C G C C E C C C
+C C C E C V C M C C A X D C F C
+C C C F C V C H C X T Y Y C X X
+C C V C E P C Y C C C X H C C E
+J C C C H C C C A C M C J H G P
+K C Y J A C Q C C C S C K C V W
+C D D Z C C C C Z C N C C C C U
+N V C C S C C C P C C H C B C C
+C N C C B C C W U C A B C Z C K
+S M C C C S Z C C C C E T W C C
+15 12
+C C C C C C G D C W C S
+C S Y C C H C J F B M P
+C V X C C J C V A W N C
+S M F C C J E C N P M H
+X C C C C C C X C N F B
+D J X X L C C C X L C C
+C M C V C L C C Z J C B
+Z C C C P C C W S D C Y
+T C O P H C C B J C C G
+X C C H C C I H H C K P
+C C B C X C C C E P H A
+C H L C T C C N C C W C
+N O C V H V C H C K C K
+C C C X R C A C C C C C
+C N M C R C C E C X A K
+10 13
+C C C C C C C C C C C R C
+C C J C C C B C C G C C C
+C C C C C S C C C E C C X
+C C R C C C C C C C C C C
+C C N C V C C G C C C M C
+C C C C C C C C C C C C I
+C C C Q C C C C C C C O C
+C C U C C C C E C Y C C P
+A C C C C C F C C C R A K
+C C C C C C C C C C L X C
+10 10
+C C Z G C C C U N W
+C C P K C C A G U B
+C I C G C C C C C U
+V C C C C C C T G C
+R X K C H H W X E G
+Q C C F C G E A P Q
+C C B C U C C C C T
+K P C S T C C C W T
+C P D G S C U C C O
+C C C N P C C C C C
+17 13
+C C C C X C C G S C C H E
+C C W C C C C L C H C B C
+C C O C C V Y C C C C L H
+C C Q C N D S C C Z C R L
+C C C C C C C C C I C O J
+C C X C C B C W F Z C P C
+C C C C C C C C C C C O M
+H C C C C O P C C C C C H
+T C S F Q C Z L Z C O C N
+X C C C J F C C C B C C C
+E C E C C C C M C T C C V
+C C C C C C C C C V C F C
+X C R C H R C V C C C C B
+C F C M C C F C W X C Q W
+B G C C C M N D J V C W C
+B C C H C C W H C C C C S
+V J T M C C U O C C R C Q
+13 14
+C Q C C C C L Q P J K C C G
+C E C C S C L S A C F C B R
+C C C C P T X C C C G R V C
+S G C C D F C N C C N H K L
+K K C C C K U C C C C C C C
+C C G C C C C C C C I C L C
+C C C C C W V C C C C C G C
+C C V C C C C A C C C C C T
+C Q Y C U J G Z C C C D U U
+L C P X C C C C J C E K V J
+O Y Y R G C C X C Y O C C W
+Q A L C Z C C Y C U F Q C K
+H C C Y C C C J W Z L C N Z
+15 13
+C C C X C C C C C C C C C
+J C C C A C D C C C C Z Z
+C C C S O Z C C A P C T G
+C C C B Q C P C C N C W C
+C D C C C C A D W C C L C
+C R C C C C D C C C C G C
+G P C C C C C A C C C C X
+C K C Q C U C C C F M C Y
+C Z C C C C C C B C C M H
+C C C C W C C Y A P C C C
+C C C C C C C H Y C C C N
+C D I C C F O C G C H C C
+C C G C C C C C C R Q C Q
+D C D C C C J C C Y C C C
+U C C C C C C F C C Q A K

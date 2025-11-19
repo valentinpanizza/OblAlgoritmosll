@@ -98,8 +98,8 @@ class AVL {
         if (this->mejor == NULL || puntaje > this->mejor->puntaje || (puntaje == this->mejor->puntaje && id < this->mejor->id)) {
             this->mejor = nuevo;
         }
-        insertarRecId(this->raizId, nuevo);  // inserta en árbol de IDs
-        insertarRecP(this->raizP, nuevo);    // inserta en árbol de Puntajes
+        insertarRecId(this->raizId, nuevo);  // inserta en árbol de IDs //llamo al de id.
+        insertarRecP(this->raizP, nuevo);    // inserta en árbol de Puntajes //llamo al de puntaje
     }
 
     void insertarRecId(NodoAVL*& nodo, NodoAVL* nuevo){
@@ -110,12 +110,12 @@ class AVL {
             insertarRecId(nodo->derId, nuevo);
         }else if(nodo->id > nuevo->id) {
             insertarRecId(nodo->izqId, nuevo);
-        }
+        } //depende el id.
 
         nodo->alturaId = 1 + max(alturaSegura(nodo->derId, true), alturaSegura(nodo->izqId, true));
 
         int balance = getBalance(nodo, true);
-
+     //reordeno el avl. 
         // caso izq izq
         if(balance < -1 && nodo->izqId->id > nuevo->id){
             rotacionHaciaDerecha(nodo, true);
@@ -172,7 +172,7 @@ class AVL {
                 rotacionHaciaIzquierda(nodo, false);
             }
         }
-        actualizarHijos(nodo);
+        actualizarHijos(nodo); 
     }
 
     NodoAVL* buscarId(NodoAVL* nodo, int id){
@@ -180,23 +180,25 @@ class AVL {
         if(nodo->id == id) return nodo;
         if(id < nodo->id) return buscarId(nodo->izqId, id);
         return buscarId(nodo->derId, id);
+        //metodo que llama find.
     }
 
     int contPuntaje(NodoAVL* nodo, int p) {
         if (!nodo) return 0;
-        if (nodo->puntaje < p) {
+        if (nodo->puntaje < p) { // es menor
             return contPuntaje(nodo->derP, p);
-        } else {
-            if(nodo->derP) return 1 + nodo->derP->cantNodos + contPuntaje(nodo->izqP, p);
-            return 1 + contPuntaje(nodo->izqP, p);
+        } else { //Encontre uno mas que tiene mayor puntaje al especificado.
+            if(nodo->derP) return 1 + nodo->derP->cantNodos + contPuntaje(nodo->izqP, p); //recursivo
+            //izq y derecha. 
+            return 1 + contPuntaje(nodo->izqP, p); // solo izq si no queda a la derecha.
         }
     }
 
     void actualizarHijos(NodoAVL* nodo) {
         if (!nodo) return;
-        int izq = nodo->izqP ? nodo->izqP->cantNodos : 0;
+        int izq = nodo->izqP ? nodo->izqP->cantNodos : 0; //llamada desde insertar.
         int der = nodo->derP ? nodo->derP->cantNodos : 0;
-        nodo->cantNodos = 1 + izq + der;
+        nodo->cantNodos = 1 + izq + der; //sumo los de mis hijos ambos.
     }
 
     public:
@@ -216,22 +218,23 @@ class AVL {
         return this->raizId == NULL;
     }
 
-    string impFind(int _id){
+    string impFind(int _id){ //lo busca por ID. 
         NodoAVL* n = buscarId(this->raizId, _id);
         return (n == NULL) ? "jugador_no_encontrado" : n->nombre + " " + std::to_string(n->puntaje);
     }
 
     string impRank(int p){
-        return std::to_string(contPuntaje(this->raizP, p));
+        return std::to_string(contPuntaje(this->raizP, p)); //cuento jugadores con puntaje mayor.
     }
 
     string getCant(){
-        return std::to_string(this->cant);
+        return std::to_string(this->cant); //llamo a cant. 
     }
 
     string impTop1(){
         if(!this->mejor) return "sin_jugadores";
         return this->mejor->nombre + " " + std::to_string(this->mejor->puntaje);
+        //retorno el nombre del mejor. 
     }
 };
 
