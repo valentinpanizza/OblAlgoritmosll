@@ -55,6 +55,16 @@ Se usa la función intercalar() para sumar n1 - i cada vez que un elemento de la
 Inserción y consulta en hash abierto: O(1) promedio, O(n) en total.
 MergeSort modificado: O(nlog n).
 
+Utilizamos una función de hash vista en clase:
+```
+int hash(string key) {
+    int h = 0;
+    for (int i = 0; i < key.length(); i++)
+        h = 31 * h + int(key[i]);
+      return h;
+}
+```
+
 ## Ejercicio 8
 
 **Explicación breve de la solución:**
