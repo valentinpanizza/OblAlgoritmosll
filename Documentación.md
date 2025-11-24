@@ -40,6 +40,11 @@ O(N+M)
 Se guardan N pozos en un arreglo.
 Se almacenan hasta M mejoras en el heap.
 
+<br>
+<br>
+<br>
+<br>
+
 ## Ejercicio 7
 
 **Explicación breve de la solución:**
@@ -65,6 +70,11 @@ int hash(string key) {
 }
 ```
 
+<br>
+<br>
+<br>
+<br>
+
 ## Ejercicio 8
 
 **Explicación breve de la solución:**
@@ -80,6 +90,11 @@ El máximo entre esas opciones es la solución.
 La tabla tab tiene tamaño O(n^3)
 Y para cada pos se realiza una recorrida de búsqueda de coincidencias O(n)
 Por lo tanto, la complejidad es O(n^4)
+
+<br>
+<br>
+<br>
+<br>
 
 ## Ejercicio 9
 
@@ -104,6 +119,11 @@ t: hasta tamanio
 l: hasta linea
 O(cantidad.tamanio.linea)
 
+<br>
+<br>
+<br>
+<br>
+
 ## Ejercicio 10
 
 **Explicación breve de la solución:**
@@ -111,6 +131,11 @@ Se implementó backtracking con poda, utilizamos una matriz de booleanos "matriz
 Para la poda realizamos 2 cosas: mediante la función de podemosPodar que descarta recorridos que requieras de mas pasos que el mejor encontrado, y además dentro de main asignando a mejorSol = res,  lo que permite descartar recorridos que requieran más pasos que la mejor solución global.
 Además se sigue la estructura tipica de backtracking, luego de verificar que el movimiento es válido,  realizamos el "sanguche" de aplicarMovimiento, la llamada recursiva a mat_opt y deshacerMovimiento. 
 Desde main, se realiza el backtracking para cada FC, seleccionando el que requiera de menor cantidad de pasos.
+
+<br>
+<br>
+<br>
+<br>
 
 ## Pruebas
 
